@@ -1,0 +1,27 @@
+{
+  "_id": "688371611eef35261f39088e",
+  "content_hash": "ae7a4e4847875cdf7d27771fb6415648",
+  "collected_at": "2025-07-25T12:12:49.612825",
+  "content": "884 \n \nPROGRAMMES AVAILABLE AT THE NATIONAL DIPLOMA (ND) AND ENTRY REQUIREMENTS   \nPOLYTECHNIC/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  REMARKS/WAIVER  \nLENS-POLY  \nLIGHTHOUSE  MAN-ORON  \nMAPOLY     \nMARIST  \nNACABSPOLY  \nNASPOTEC    \nNBPZ       \nNCAT-ZAR  \nNICT  \nOGITECH  \nOGWASHIUKU  \nOSISATECH  \nOSUNPOLY    \nOSUNTECH    \nOTEFE      \nOZORO  \nPH-POLY  \nPLS-POLY    \nPOLY-ADOKA  \nPOLY-IMESI  \nPOLY-YOLA    \nPTI  \nRAMAT-POLY   \nRONIK     \nRUGIPO    \nSAAPADE  \nSARO-WIWA POLY  \nSHAKA  \nSURE-POLY  \nTAR-POLY",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 906,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 905,
+    "page_label": "906"
+  },
+  "source": "Jamb-Brochure.pdf#page=906",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903c5",
+  "content_hash": "581c249f1e301fa4e781325caf227548",
+  "collected_at": "2025-07-25T12:12:49.587953",
+  "content": "viii \n \nZONAL DIRECTORATES  \n  \nABUJA  \nMobile no. : 08065319271   \n  \nLIAISON OFFICE FCT  \nTel: 00-5238803  \n  \nBAUCHI  \nMobile No.: 08077497607  \n  \nBENIN  \nMobile No.: 08037177620  \n  \nENUGU  \nMobile No.: 08037045557  \n  \nIBADAN  \nMobile No.: 07081198931  \n  \nKADUNA  \nMobile No.: 07037479116  \n  \nKANO  \nMobile No.: 08023531934 / 08038634662.  \n  \nLAFIA  \nMobile No.: 08033209947",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 8,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 7,
+    "page_label": "8"
+  },
+  "source": "Jamb-Brochure.pdf#page=8",
+  "type": "pdf",
+  "year": null
+}

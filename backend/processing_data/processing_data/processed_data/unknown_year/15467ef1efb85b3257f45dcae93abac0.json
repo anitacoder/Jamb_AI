@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903d0",
+  "content_hash": "15467ef1efb85b3257f45dcae93abac0",
+  "collected_at": "2025-07-25T12:12:49.588111",
+  "content": "xix \n \n18  \nLAGOS  \nJAMB HEADQUARTERS ANNEX, 11 OJORA ROAD, IKOYI  \n(REGISTRATION ONLY)  \n19  \nNASSARAWA  \nJAMB State Office, State Ministry Of Works, Opposite Coca-Cola \nBottling Company Depot Jos Road, Lafia, Nasarawa State.  \n20  OGUN  JAMB STATE OFFICE, ABEOKUTA (Registration Only)  \n21  ONDO  JAMB Zonal Office, AKURE, ONDO STATE (REGISTRATION ONLY)  \n22  OSUN  JAMB STATE OFFICE, OSOGBO (REGISTRATION ONLY)  \n23  \nPLATEAU  \nJAMB State Office, 56 Murtala Mohamed Way, Jos, Plateau  \nState  \n24  \nRIVERS  \nJAMB STATE ZONAL OFFICE, NO. 10 ABA ROAD, OPPOSITE MILE 1  \nPARK, PORT HARCOURT (REGISTRATION ONLY)  \n25  \nSOKOTO  \nJAMB STATE OFFICE SOKOTO (REGISTRATION ONLY) Block 6, Third \nFloor, Shehu Kangiwa Secretariat, Sokoto.  \n26  YOBE  JAMB STATE OFFICE, DAMATURU (REGISTRATION ONLY)",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 19,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 18,
+    "page_label": "19"
+  },
+  "source": "Jamb-Brochure.pdf#page=19",
+  "type": "pdf",
+  "year": null
+}

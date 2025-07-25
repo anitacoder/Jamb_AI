@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f39068d",
+  "content_hash": "146c208b33d2c852e6937c4ba5daaabf",
+  "collected_at": "2025-07-25T12:12:49.598986",
+  "content": "421 \n \n  \nAGRICULTURAL SCIENCE AND \nEDUCATION  \n (i) Two (2) passes at  \n'A' level in Biology  \nFive (5) 'O' level \ncredit passes or  \nAny three (3) subjects from  \n Chemistry,  Biology,  \nDIRECT ENTRY",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 443,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 442,
+    "page_label": "443"
+  },
+  "source": "Jamb-Brochure.pdf#page=443",
+  "type": "pdf",
+  "year": null
+}

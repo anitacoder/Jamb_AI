@@ -1,0 +1,27 @@
+{
+  "_id": "6883715b1eef35261f39060a",
+  "content_hash": "d5f96fc1fe91403907292f4279b5a631",
+  "collected_at": "2025-07-25T12:12:49.595133",
+  "content": "285 \n \n  \n    (vi)  EDASAB requires Biology, Chemistry and Physics/ \nMathematics.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 307,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 306,
+    "page_label": "307"
+  },
+  "source": "Jamb-Brochure.pdf#page=307",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f3909a7",
+  "content_hash": "dab3bc82d8379415b639147caea538cf",
+  "collected_at": "2025-07-25T12:12:49.617670",
+  "content": "1129 \n \nPROGRAMMES/COURSES AVAILABLE AT THE NIGERIA CERTIFICATE IN EDUCATION (NCE) LEVEL AND THE REQUIREMENTS FOR EACH \nCOURSE  \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n ILESHA              \nILORIN_COL    \nIMSCOL           \nKANO-CASRS  \nKAT-ALA  \nKHATAB        \nKINSEY  \nLANLATECOE  \nLESSEL  \nMAIDU  \nMCF-COE  \nMINNA         \nMOCPED        \nNASE  \nNOCOEN           \nOJU  \nORO",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1151,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1150,
+    "page_label": "1151"
+  },
+  "source": "Jamb-Brochure.pdf#page=1151",
+  "type": "pdf",
+  "year": null
+}

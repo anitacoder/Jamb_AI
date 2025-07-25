@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f390946",
+  "content_hash": "7da174339007038464b5162c17e5e37b",
+  "collected_at": "2025-07-25T12:12:49.616240",
+  "content": "1032 \n \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n ORO        \n OSISATEC       \nOSWALD  \nOTTO/IJANIKIN  \nSOKOTO  \n TOPMOST     \n WAKABIU      \n WARRI_COE      \nZING  \n ZUBA        \n  \n  \nBIOLOGY/MATHEMATICS  \nADESHINA  \n AGBOR          \nAKSCOE  \nALVAN  \nANGEL  \nAROCHUKWU  \nASSCOED   \nATAPOLY  \nBAMA  \n CITY      \nCORNER  \nCRESTFIELD   \n DELAR     \nDIAMOND  \nDUTSINMA    \nEKIADOLOR   \n ESCE(T)    \nFive (5) SSC credit passes, in English Language, \nMathematics, Biology, and any other two (2) \nScience subjects.  \n  \nMathematics, Biology and any other Science \nsubject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1054,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1053,
+    "page_label": "1054"
+  },
+  "source": "Jamb-Brochure.pdf#page=1054",
+  "type": "pdf",
+  "year": null
+}

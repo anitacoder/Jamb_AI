@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903cb",
+  "content_hash": "fcce5a478ff8f0ca5af84f1d872ef524",
+  "collected_at": "2025-07-25T12:12:49.588051",
+  "content": "xiv \n \nPTC/PRC : THEIR MEANING AND LOCATION  \n  \nThe Board has a total of 16 Professional Testing Centres (PTC) which are centres owned by JAMB for Computer \nBased Test (CBT) examination and a total of 29 Professional Registration Centres (PRC) which are only registration \ncentres. All PTCs are PRCs except the PTC at the National Headquarters which has no Registration Centre.  \n  \nThe list of PTCs :  \nS/N  STATE NAME  CENTRE NAME  \n1  \nABIA  \nJAMB State Office, Ubakala, near Ubakala junction, Enugu - Port  \nHarcourt Expressway, Umuahia, Abia State  \n2  BAYELSA  Jamb Cbt Centre, Hospital Road, Otuoke, Bayelsa State  \n3  \nBENUE  \nJAMB Zonal Office, Makurdi, No.146, George Akume way, Makurdi,  \nBenue State  \n4  DELTA  JAMB State Office, Asaba, Okpanam Road, Asaba, Delta State  \n5  EKITI  JAMB State Office, Beside CBN, New Iyin Road, Ado-Ekiti, Ekiti State  \n6  FCT-ABUJA  JAMB CBT Centre, Kogo, Bwari, Abuja",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 14,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 13,
+    "page_label": "14"
+  },
+  "source": "Jamb-Brochure.pdf#page=14",
+  "type": "pdf",
+  "year": null
+}

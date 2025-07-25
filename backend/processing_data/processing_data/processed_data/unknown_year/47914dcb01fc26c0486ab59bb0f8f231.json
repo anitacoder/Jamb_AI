@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f390a04",
+  "content_hash": "47914dcb01fc26c0486ab59bb0f8f231",
+  "collected_at": "2025-07-25T12:12:49.618438",
+  "content": "1200 \n \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n    \nGEOGRAPHY/MATHEMATICS  \n ADEYEMI        \n AGBOR            \nAKAMKPA  \nAKWANGA  \n ALVAN               \nANGEL  \nANISE  \n ANKPA              \nAPA  \nARGUNGU  \n AZARE               \n BAMA                \n CITY          \nCOE-BILLIRI  \nCOE-ERO  \n CORNER        \nFive (5) SSC credit passes in English Language, \nMathematics, Geography and any two (2) of \nScience/Social Sciences.  \n  \n Mathematics,  Geography  and  any  other  \nScience/Social Science subject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1222,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1221,
+    "page_label": "1222"
+  },
+  "source": "Jamb-Brochure.pdf#page=1222",
+  "type": "pdf",
+  "year": null
+}

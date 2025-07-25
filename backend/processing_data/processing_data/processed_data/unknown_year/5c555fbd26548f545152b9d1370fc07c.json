@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f390804",
+  "content_hash": "5c555fbd26548f545152b9d1370fc07c",
+  "collected_at": "2025-07-25T12:12:49.607936",
+  "content": "783 \n \n \n    (iii)   WESTERN-DEL requires Mathematics/Physics, Chemistry, \nBiology/Agricultural Science.  \n(v)  PHC accepts Mathematics, Economics and any other \nsubject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 805,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 804,
+    "page_label": "805"
+  },
+  "source": "Jamb-Brochure.pdf#page=805",
+  "type": "pdf",
+  "year": null
+}

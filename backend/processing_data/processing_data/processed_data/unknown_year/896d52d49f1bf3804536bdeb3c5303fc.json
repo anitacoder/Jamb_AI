@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f390824",
+  "content_hash": "896d52d49f1bf3804536bdeb3c5303fc",
+  "collected_at": "2025-07-25T12:12:49.609248",
+  "content": "817 \n \n8  FEDPO-DAM  Federal Polytechnic,  P. \nM. B. 1006, Damaturu,  \nYobe State.  \n9  FEDPO-EDE  Federal Polytechnic, Ede,  Osun \nState  \n10  FEDPO-EKO  Federal Polytechnic, Ekowe,  \nP.M.B. 110,  \nYenagoa, Bayelsa State  \n11  FEDPO-IDA  Federal Polytechnic, Idah \nP.M.B.1037, Idah, Kogi \nState.   \nTel: 058-800118.  \n  \n12  FEDPO-ILA  Federal Polytechnic,   \nP. M. B. 50, Ilaro,   \nOgun State  \n13   FEDPO-MUB  Federal Polytechnic,   \nP.M.B. 35, Mubi,  \nAdamawa State.  \n14  FEDPO-NAM  Federal Polytechnic, P. M. B. \n1012, Kaura/Namoda,  Zamfara \nState.  \nTel: 063-60452.  \n  \n15   FEDPO-NAS  Federal Polytechnic,  P. \nM. B. 001, Nasarawa,  \nNasarawa State.  \nTel: 047-66707.  \n  \n16  FEDPO-NEK  Federal Polytechnic, Nekede, \nP. M. B. 1036, Owerri,  Imo \nState.  \n17  FEDPO-FFA  Fed. Polytechnic, Offa  \nP. M. B. 420, Offa,  \nKwara State.   \nTel:031-801165, 801043",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 839,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 838,
+    "page_label": "839"
+  },
+  "source": "Jamb-Brochure.pdf#page=839",
+  "type": "pdf",
+  "year": null
+}

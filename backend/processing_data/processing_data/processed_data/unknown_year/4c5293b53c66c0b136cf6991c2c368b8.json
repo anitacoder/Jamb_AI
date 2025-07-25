@@ -1,0 +1,27 @@
+{
+  "_id": "688371641eef35261f390a89",
+  "content_hash": "4c5293b53c66c0b136cf6991c2c368b8",
+  "collected_at": "2025-07-25T12:13:02.187615",
+  "content": "JAMB Result Checker Portal (https://pdfdownload.com.ng/jamb-result-checker-portal/)\nRetrieved from \"https://en.wikipedia.org/w/index.php?\ntitle=Joint_Admissions_and_Matriculation_Board&oldid=1298817005\"",
+  "file_info": {
+    "filename": "jamb-history.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/jamb-history.pdf",
+    "page_number": 4,
+    "total_pages": 4,
+    "file_size": 211924
+  },
+  "metadata": {
+    "producer": "Skia/PDF m137",
+    "creator": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/137.0.0.0 Safari/537.36",
+    "creationdate": "2025-07-15T17:06:39+00:00",
+    "title": "Joint Admissions and Matriculation Board - Wikipedia",
+    "moddate": "2025-07-15T17:06:39+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/jamb-history.pdf",
+    "total_pages": 4,
+    "page": 3,
+    "page_label": "4"
+  },
+  "source": "jamb-history.pdf#page=4",
+  "type": "pdf",
+  "year": null
+}

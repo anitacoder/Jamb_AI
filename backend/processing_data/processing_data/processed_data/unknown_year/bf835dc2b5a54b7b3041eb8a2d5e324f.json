@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f3909ff",
+  "content_hash": "bf835dc2b5a54b7b3041eb8a2d5e324f",
+  "collected_at": "2025-07-25T12:12:49.618399",
+  "content": "1197 \n \n \nPROGRAMMES/COURSES AVAILABLE AT THE NIGERIA CERTIFICATE IN EDUCATION (NCE) LEVEL AND THE REQUIREMENTS FOR EACH \nCOURSE  \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \nGEOGRAPHY/INTEGRATED SCIENCE  \n ADEYEMI      \n AGBOR            \nAKAMKPA  \n ALVAN             \nANGEL  \nANISE  \nANKPA  \n BAMA             \nCOE-BILLIRI  \nEACOE  \n EKIADOLOR     \n FC-KANO      \nFC-OBUDU  \n FC-ZARIA      \nGASHUA     \n GINDIRI        \n HAVARD      \nFive (5) SSC credit passes in English Language,  \nMathematics, Geography and two (2) of   \n1. Integrated Science/General Science  \n2. Physics  \n3. Chemistry  \n4. Biology/Health Science  \n  \nGeography and two (2) of Biology, Physics and \nChemistry.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1219,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1218,
+    "page_label": "1219"
+  },
+  "source": "Jamb-Brochure.pdf#page=1219",
+  "type": "pdf",
+  "year": null
+}

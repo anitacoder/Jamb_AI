@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f3906b7",
+  "content_hash": "9a731b768d9b258b548009cf3a94096b",
+  "collected_at": "2025-07-25T12:12:49.600211",
+  "content": "462 \n \n  \nSPORT   SCIENCE  \n OOU      \n  \nSPORT   SCIENCE AND HEALTH  \nEDUCATION  \nLAPAI  \nTwo (2) 'A' level \npasses in any of the \nfollowings:  \n(i) Economics,  \nGeography, Biology,  \n Chemistry    \n Mathematics  and  \nPhysics.  \n(ii) NCE in PHE \nwith  \nGrade three (3)  \nFive (5) 'O\u2019 level \nCredit passes to \ninclude English \nLanguage and any \ntwo (2) of Biology,  \nEconomics,  \nGeography, \nGovernment \n and \nMathematics.  \n  \n Biology,  Mathematics  and  \nEconomics/Geography",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 484,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 483,
+    "page_label": "484"
+  },
+  "source": "Jamb-Brochure.pdf#page=484",
+  "type": "pdf",
+  "year": null
+}

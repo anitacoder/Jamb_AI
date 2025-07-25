@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f39082a",
+  "content_hash": "8eae80819aab08c8f13fb4bea6a571af",
+  "collected_at": "2025-07-25T12:12:49.609488",
+  "content": "823 \n \n31  OGITECH  Ogun State Institute of Technology,  \n(formerly Gateway ICT Polytechnic), Igbesa   \nP.M.B. 2005, Igbesa   \nOba Adesola Market Road, Igbesa Ogun  \nState, Nigeria  \nTel: +234(0)8035593591, +234(0)8168367794  \nE-mail: info@ogitech.edu.ng  \nWebsite: www.ogitech.edu.ng  \n  \n32  OKE-OGUN POLY  The Oke-Ogun Polytechnic, \nP.M.B. 021, Saki, Oyo \nState.  \nTel: 08059831225,  08055112409  \n \nS/N  STATE POLYTECHNICS \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF \nINSTITUTIONS  \n    \n33  OTEFE  Delta State Polytechnic, Otefe,  \nP.M.B. 03, Oghara.   \nDelta State Tel: 054-340500  \n  \n34  OSUNPOLY  Osun State Polytechnic, Iree  \nP.M.B. 301, Iree,  Osun \nState.  \n35  OSUNTECH  Osun State College of Tech, Esa-Oke,  \nP.M.B. 1011 Esa-Oke  Osun State.  \n  \n36  OZORO  Delta State Polytechnic, \nOzoro,  P.M.B. 5, Ozoro,  Delta \nState.  \n  \n37  PH-POLY  Port Harcourt Polytechnic,  \n P.M.B. 5936, Rumuola   \nPort Harcourt   \nRiver State  \n  \n38  PLS-POLY  Plateau State Polytechnic,   \nBarkin-Ladi,   \n P. M. B. 02023, Bukuru,  Plateau \nState.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 845,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 844,
+    "page_label": "845"
+  },
+  "source": "Jamb-Brochure.pdf#page=845",
+  "type": "pdf",
+  "year": null
+}

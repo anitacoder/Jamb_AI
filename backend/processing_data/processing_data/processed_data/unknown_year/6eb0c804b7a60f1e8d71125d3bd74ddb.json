@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f390a23",
+  "content_hash": "6eb0c804b7a60f1e8d71125d3bd74ddb",
+  "collected_at": "2025-07-25T12:12:49.619158",
+  "content": "1225 \n \nANISE  \nANKPA   \nARGUNGU             \nASSCOED       \nAZARE         \nBIAIS  \nCOE-BILLIRI  \nDUTSINMA  \n FC-ABEO        \n FC-KANO           \nFC-KAT              \n FC-OKENE         \n FC-PANK           \nFC-ZARIA   \nGASHUA          \n GINDIRI         \nGUMEL            \nHCOE  \n  \n \nPROGRAMMES/COURSES AVAILABLE AT THE NIGERIA CERTIFICATE IN EDUCATION (NCE) LEVEL AND THE REQUIREMENTS FOR EACH \nCOURSE",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1247,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1246,
+    "page_label": "1247"
+  },
+  "source": "Jamb-Brochure.pdf#page=1247",
+  "type": "pdf",
+  "year": null
+}

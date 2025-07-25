@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f39067f",
+  "content_hash": "739a29e21b6533c8176df3073ab16588",
+  "collected_at": "2025-07-25T12:12:49.598655",
+  "content": "407 \n \n  \n    (viii) MINNA requires 'O' level credit pass in Physics and any \nother Science or Social Science subject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 429,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 428,
+    "page_label": "429"
+  },
+  "source": "Jamb-Brochure.pdf#page=429",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f39043d",
+  "content_hash": "01d2e8d091883f726920897998795d1f",
+  "collected_at": "2025-07-25T12:12:49.588382",
+  "content": "16 \n \n  \n   The Available combinations are:-  \n  \n   (ii)  Arabic with any of the following  \n1. Islamic Studies  \n2. Arabic Literature  \n  \n   (iii)  Archaeology with any of the following  \n1. History  \n2. Islamic Studies       3.  Classics.  \n  \n   (iv)  Classical Studies with any of the following:-  \n1. Archaeology  \n2. English  \n3. French  \n4. Language Arts  \n5. Philosophy  \n6. Theatre Arts  \n  \n   (v)  English with any of the following:-  \n1. French  \n2. Religious Studies  \n3. Yoruba  \n4. Classical Studies  \n5. Theatre Arts  \n6. Linguistics  \n7. German  \n8. Russian         \n    \n    (v)  History with any of the following;-  \n  \n1. Political Science  \n  \n2. Archaeology  \n  \n   (vi)   Language with any of the following:-",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 38,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 37,
+    "page_label": "38"
+  },
+  "source": "Jamb-Brochure.pdf#page=38",
+  "type": "pdf",
+  "year": null
+}

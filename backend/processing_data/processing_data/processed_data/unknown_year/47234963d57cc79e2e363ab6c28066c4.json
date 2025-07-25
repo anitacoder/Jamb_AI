@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903d1",
+  "content_hash": "47234963d57cc79e2e363ab6c28066c4",
+  "collected_at": "2025-07-25T12:12:49.588123",
+  "content": "xx \n \n27  ZAMFARA  JAMB STATE OFFICE, GUSAU, Zamfara State (REGISTRATION ONLY)  \n28  \nFCT-ABUJA  \nJAMB CBT Centre, Kogo, Bwari Abuja Ctr-2 (ITS REGISTRATION  \nTESTING)  \n29  \nFCT-ABUJA  \nJAMB FCT ZONAL OFFICE , No 19 Karaye Street, Off Amurie Omanze  \nStreet, Off Ladoke Akintola Boulevard, Garki II, Abuja, FCT",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 20,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 19,
+    "page_label": "20"
+  },
+  "source": "Jamb-Brochure.pdf#page=20",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "6883715a1eef35261f39054a",
+  "content_hash": "975cbd7ea00b59ee6895ca69f3cf912b",
+  "collected_at": "2025-07-25T12:12:49.590155",
+  "content": "121 \n \n  \n  \n  \n  \n \nCOURSE/DEGREE \nAWARDING INSTITUTIONS  \nREQUIREMENTS  UTME SUBJECTS  SPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n      and any two (2) of the following - Chemistry, \nGeography, Economics, Physics.  \n  \nUTME SUBJECTS  \n(i) UMUDIKE Same as in Agriculture.  \n(ii) OOU requires Biology/Agricultural Science and any two  \n(2) of Chemistry, Physics, Mathematics or Economics.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 143,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 142,
+    "page_label": "143"
+  },
+  "source": "Jamb-Brochure.pdf#page=143",
+  "type": "pdf",
+  "year": null
+}

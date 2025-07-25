@@ -1,0 +1,27 @@
+{
+  "_id": "6883715f1eef35261f390792",
+  "content_hash": "999b479f6ddd2a93e60508229c4706a3",
+  "collected_at": "2025-07-25T12:12:49.604744",
+  "content": "677 \n \nPROGRAMME/DEGREE  \nAWARDING INSTITUTIONS  \nREQUIREMENTS  \n  \n  \n  \n  \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n   \n \n(vii) OSUSTECH \u2013 same as in Fisheries.  \n(viii) KWASU \u2013 Same as in Mathematics.  \n(ix) SOUTHWESTERN \u2013 Same as Microbiology.  \n(x) BAUCHI requires Chemistry, Biology and Physics or \nMathematics.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 699,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 698,
+    "page_label": "699"
+  },
+  "source": "Jamb-Brochure.pdf#page=699",
+  "type": "pdf",
+  "year": null
+}

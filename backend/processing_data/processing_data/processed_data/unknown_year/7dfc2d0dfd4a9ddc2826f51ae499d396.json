@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903cf",
+  "content_hash": "7dfc2d0dfd4a9ddc2826f51ae499d396",
+  "collected_at": "2025-07-25T12:12:49.588099",
+  "content": "xviii \n \n9  \nEDO  \nJAMB ZONAL OFFICE BENIN (REGISTRATION ONLY) 21 Ikpokpan Rd,  \nGRA, Benin- City, Edo State  \n10  ENUGU  JAMB STATE OFFICE, ENUGU (REGISTRATION ONLY)  \n11  GOMBE  JAMB STATE OFFICE, GOMBE, Gombe State (REGISTRATION ONLY)  \n12  IMO  JAMB STATE OFFICE, OWERRI, Imo State (REGISTRATION ONLY)  \n13  KADUNA  JAMB STATE OFFICE (REGISTRATION ONLY)  \n14  KANO  JAMB STATE OFFICE, KANO (REGISTRATION ONLY)  \n15  KATSINA  JAMB STATE OFFICE, KATSINA (REGISTRATION ONLY)  \n16  \nKEBBI  \nJAMB STATE OFFICE, BIRNIN KEBBI, Kebbi State (REGISTRATION  \nONLY)  \n17  \nKOGI  \nJAMB State Office, lokoja Gp 574, Salau Atima Housing Estate, \nLokongoma, Phase 2, Lokoja, Kogi State.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 18,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 17,
+    "page_label": "18"
+  },
+  "source": "Jamb-Brochure.pdf#page=18",
+  "type": "pdf",
+  "year": null
+}

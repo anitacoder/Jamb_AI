@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903cd",
+  "content_hash": "13549e39822a4280abc62e9417d92efa",
+  "collected_at": "2025-07-25T12:12:49.588076",
+  "content": "xvi \n \n15  \nOYO  \nNCC/JAMB CBT Centre, Behind Jossy Adeolu Filing Station, Igbeti Road,  \nIgboho, Oyo State  \n16  TARABA  JAMB State Office, Old Teachers College, Jalingo, Taraba State",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 16,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 15,
+    "page_label": "16"
+  },
+  "source": "Jamb-Brochure.pdf#page=16",
+  "type": "pdf",
+  "year": null
+}

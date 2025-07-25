@@ -1,0 +1,27 @@
+{
+  "_id": "6883715b1eef35261f3905fc",
+  "content_hash": "f5b149157dab95126551dcafd55d70d6",
+  "collected_at": "2025-07-25T12:12:49.594486",
+  "content": "271 \n \nCOURSE/DEGREE AWARDING \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n    Chemistry, Biology, Economics, Geography and  \nAgricultural Science.  \n(ix) BSU requires 'O' level credit passes in English Language, \nMathematics, Physics, Biology and Chemistry.  \n  \n  \nUTME SUBJECTS  \n(i) IAUED requires Economics.  \n(ii) BOWEN does not accept Geography/Physics.  \n(iii) LASU requires Chemistry.  \n(iv) EBSU requires Mathematics, Physics or Chemistry or \nBiology.  \n(v) BSU requires Mathematics, Physics and \nChemistry/Biology.  \n(vi) TASUED requires Mathematics, Physics and \nChemistry.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 293,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 292,
+    "page_label": "293"
+  },
+  "source": "Jamb-Brochure.pdf#page=293",
+  "type": "pdf",
+  "year": null
+}

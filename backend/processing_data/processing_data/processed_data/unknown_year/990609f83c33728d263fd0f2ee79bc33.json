@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f390654",
+  "content_hash": "990609f83c33728d263fd0f2ee79bc33",
+  "collected_at": "2025-07-25T12:12:49.597453",
+  "content": "361 \n \n  \n(ii) ADEYEMI requires 'O' level credit passes in Chemistry, \nMathematics, and any two (2) of the following:",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 383,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 382,
+    "page_label": "383"
+  },
+  "source": "Jamb-Brochure.pdf#page=383",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "688371681eef35261f390cb5",
+  "content_hash": "ef2725598e2224eff56f3fe742b45c97",
+  "collected_at": "2025-07-25T12:13:03.838155",
+  "content": "S/N Name of Institution Minimum \nScore \n217.  \nGLOBAL POLYTECHNIC, OYEMEKUN ROAD, AKURE, ONDO STATE 120 \n218.  DELTA STATE COLLEGE OF HEALTH TECHNOLOGY, UGHELLI, DELTA \nSTATE \n120 \n219.  MATER DEI POLYTECHNIC, UGWUOBA TOWN, OJI RIVER, ENUGU \nSTATE \n120",
+  "file_info": {
+    "filename": "2020minimum_cut_off_submitted_by_insts.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/2020minimum_cut_off_submitted_by_insts.pdf",
+    "page_number": 22,
+    "total_pages": 28,
+    "file_size": 810569
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2013",
+    "creator": "Microsoft\u00ae Word 2013",
+    "creationdate": "2020-06-22T17:58:55+01:00",
+    "author": "User",
+    "moddate": "2020-06-22T17:58:55+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/2020minimum_cut_off_submitted_by_insts.pdf",
+    "total_pages": 28,
+    "page": 21,
+    "page_label": "22"
+  },
+  "source": "2020minimum_cut_off_submitted_by_insts.pdf#page=22",
+  "type": "pdf",
+  "year": null
+}

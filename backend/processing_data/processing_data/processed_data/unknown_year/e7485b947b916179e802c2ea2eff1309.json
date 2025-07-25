@@ -1,0 +1,27 @@
+{
+  "_id": "6883715f1eef35261f390790",
+  "content_hash": "e7485b947b916179e802c2ea2eff1309",
+  "collected_at": "2025-07-25T12:12:49.604707",
+  "content": "675 \n \nWESLEYUNI            \n \nPROGRAMME/DEGREE  \nAWARDING INSTITUTIONS  \nREQUIREMENTS  \n  \n  \n  \n  \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 697,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 696,
+    "page_label": "697"
+  },
+  "source": "Jamb-Brochure.pdf#page=697",
+  "type": "pdf",
+  "year": null
+}

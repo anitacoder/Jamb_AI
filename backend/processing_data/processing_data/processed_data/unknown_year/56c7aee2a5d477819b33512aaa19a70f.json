@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f390650",
+  "content_hash": "56c7aee2a5d477819b33512aaa19a70f",
+  "collected_at": "2025-07-25T12:12:49.597374",
+  "content": "357 \n \n  \nBAUCHI        \nEDAKOKA  \nFC-POTISKUM    \nFED-GUSAU  \n  \nEDUCATION /MECHANICAL  \nTECHNOLOGY   \nEDANKPA  \nMAUTY  \n  \n  \nEDUCATION /CONSTRUCTION  \nTECHNOLOGY   \nEDANKPA  \n  \n  \nMETAL WORK TECHNOLOGY EDUCATION  \nATAPOLY  \nBAUCHI   \nEDAKOKA  \nEDBICHI  \nFC-POTISKUM    \n  \nWOODWORK TECHNOLOGY EDUCATION  \nATAPOLY  \n  \nMETAL WORK / WOODWORK  \nTECHNOLOGY EDUCATION  \nFED-GUSAU    \n  \nEDUCATION/MECHANICAL/AUTOMOBILE  \nTECHNOLOGY EDUCATION  \n TechnicalDrawing/ \nFine  \nArt,Geography,  \nHealth Science  \nFood and  \nNutrition, Physical \nand Health \nEducation, Auto  \nTechnical, Building,  \nElectrical  \nElectronic, Metal \nWork and Wood \nWork.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 379,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 378,
+    "page_label": "379"
+  },
+  "source": "Jamb-Brochure.pdf#page=379",
+  "type": "pdf",
+  "year": null
+}

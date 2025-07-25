@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f39066b",
+  "content_hash": "4503f02a63bd6a35d15a1d88f1f5e595",
+  "collected_at": "2025-07-25T12:12:49.598164",
+  "content": "386 \n \nCOURSE/DEGREE AWARDING \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n    (ii) OOU requires English Language and three (3) other \nsubjects from History, Geography/Physics, Religious \nStudies, French and Literature in English.   \n(i) EBSU  and  CALABAR  require \n Christian  Religious  \nStudiesand two (2) other Arts subjects.  \n(ii) TASUED requires English Language and any other subjects \nin Arts or Social Sciences.  \n(iii) BENIN accepts any three (3) subjects.  \n(iv) LAGOS accepts Christian Religious Studies and any two (2) \nof Literature inEnglish, History/Government, French, \nGeography, Mathematic s, any Nigerian Language, \nEconomics/Commerce.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 408,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 407,
+    "page_label": "408"
+  },
+  "source": "Jamb-Brochure.pdf#page=408",
+  "type": "pdf",
+  "year": null
+}

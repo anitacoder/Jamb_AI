@@ -1,0 +1,27 @@
+{
+  "_id": "6883715b1eef35261f390616",
+  "content_hash": "3f6c0b59010b9a1178f095aad4f37513",
+  "collected_at": "2025-07-25T12:12:49.595347",
+  "content": "298 \n \nCOURSE/DEGREE AWARDING \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n    (v) DELSU requires Chemistry.  \n(vi) MAKURDI requires Mathematics, Biology and \nChemistry.  \n(vii) TASUED requires Biology, Chemistry, and either \nPhysics or Geography.  \n(viii) FED-DUTSINMA requiresBiology, Chemistry and \nPhysics or Mathematics.  \n(ix) LAGOS requires English Language, Biology and any \ntwo  \n(2) of Chemistry, Mathematics and Physics.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 320,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 319,
+    "page_label": "320"
+  },
+  "source": "Jamb-Brochure.pdf#page=320",
+  "type": "pdf",
+  "year": null
+}

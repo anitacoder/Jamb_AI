@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f390826",
+  "content_hash": "c4f43b80c18b2671d28489176a2d37b2",
+  "collected_at": "2025-07-25T12:12:49.609403",
+  "content": "819 \n \nS/N  FEDERAL  \nPOLYTECHNICS  \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF INSTITUTIONS  \n26  WUFPOBK  Waziri Umaru Federal  Polytechnic Birnin Kebbi,  \nKebbi State.  \n27   YABATECH  Yaba College of Technology,  \nP. M. B. 2001,Yaba, Lagos \nState.  \nTel: 01-800160.  \n  \n  \nB. STATE POLYTECHNICS  \nS/N  STATE POLYTECHNICS \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF \nINSTITUTIONS  \n1  AAP  Abraham Adesanya Polytechnic,  \nDagbolu/Akanran/Ibadan Road, Atikori, Ijebu- \nIgbo   \nP.M.B. 1020 Ijebu-Igbo Ogun State Nigeria \nwww.aapijebuigbo@yahoo.com E-mail: \naap@yahoo.com  \n  \n2  ABIAPOLY  Abia State \nPolytechnic,  P.M.B. \n166, Aba,  Abia State.  \n3  ACHTECH  Abia State College of Health Sciences and  \nManagement Technology, Aba, \nP.M.B. 7016, Aba, Abia State.  \nTel: 082232205  \n  \n4  AG-POLY  Abdu Gusau Polytechnic,  \nTalata-Mafara,  Zamfara \nState.  \n  \n5  AKPOLY  Akwa-Ibom State Polytechnic, Ikot-Osurua  \n P. M.B. 1200, Ikot-Ekpene, Akwa-Ibom State.  \n6  ALOOMA  Mai Idris Alooma Polytechnic,  \nP.M.B. 1020, Geidam,  \nYobe State.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 841,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 840,
+    "page_label": "841"
+  },
+  "source": "Jamb-Brochure.pdf#page=841",
+  "type": "pdf",
+  "year": null
+}

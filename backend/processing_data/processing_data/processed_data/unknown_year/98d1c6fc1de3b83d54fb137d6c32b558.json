@@ -1,0 +1,27 @@
+{
+  "_id": "6883715a1eef35261f390536",
+  "content_hash": "98d1c6fc1de3b83d54fb137d6c32b558",
+  "collected_at": "2025-07-25T12:12:49.589837",
+  "content": "101 \n \n(iv) Agric. Extension & \nRural     Development.  \n(v) Agronomy  \nIMSU            \n \nREQUIREMENTS  UTME SUBJECTS  SPECIAL CONSIDERATION (WAIVER) REMARKS",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 123,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 122,
+    "page_label": "123"
+  },
+  "source": "Jamb-Brochure.pdf#page=123",
+  "type": "pdf",
+  "year": null
+}

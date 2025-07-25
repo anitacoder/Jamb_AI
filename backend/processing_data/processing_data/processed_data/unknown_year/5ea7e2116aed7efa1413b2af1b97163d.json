@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f390634",
+  "content_hash": "5ea7e2116aed7efa1413b2af1b97163d",
+  "collected_at": "2025-07-25T12:12:49.596227",
+  "content": "329 \n \nCOURSE/DEGREE AWARDING \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \n SPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n     (v) LAGOS requires Physics, Mathematics/Chemistry and \none of Biology, Agricultural Science.  \n(vi) MAUTY requires Physics, Mathematics and any one \n(1) of Chemistry, Biology/Agricultural Science, \nGeography.  \n(vii) FED-DUTSINMA requiresPhysics, Mathematics and \nChemistry or Biology.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 351,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 350,
+    "page_label": "351"
+  },
+  "source": "Jamb-Brochure.pdf#page=351",
+  "type": "pdf",
+  "year": null
+}

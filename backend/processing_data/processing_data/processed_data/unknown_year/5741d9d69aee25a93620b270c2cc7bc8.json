@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f3908fc",
+  "content_hash": "5741d9d69aee25a93620b270c2cc7bc8",
+  "collected_at": "2025-07-25T12:12:49.615675",
+  "content": "980 \n \n21  GUMEL  Jigawa State College of Education, Gumel,  \nP.M.B. 1002, Jigawa State.   \nTel.064-650227  \n  \n22  MOCPED  Michael Otedola College of Primary Education,  \nMoforiji,   \nP.M.B. 1028, Epe, Lagos.  \n  \n23  MOSOGAR  Delta State College of Physical Education,  \nMosogar   \nDelta State.  \n  \n24  HONG  College of Education, Hong,   \nP.M.B. 2237, Yola,  Adamawa \nState.  \n25  OTTO/IJANIKIN  Adeniran Ogunsanya College of \nEducation,  Otto/Ijanikin  Lagos State.  \n26  IGUEBEN  College of Education  \nP.M.B. 003, Igueben  \nEdo State  \n  \n27  IJEBU-ODE  Tai Solarin College of Education, Ijebu-Ode  \nP.M.B. 2128, Ijebu-Ode, Ogun State.   \nTel.037-431996.  \n28  IKWO  Ebonyi State College of Education, \nIkwo  P.M.B.2, Ikwo,  Ebonyi State.  \n \nS/N  STATE COLLEGES \nOF EDUCATION  \n(ABBREVIATION)  \nNAMES AND ADDRESSES OF INSTITUTIONS",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1002,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1001,
+    "page_label": "1002"
+  },
+  "source": "Jamb-Brochure.pdf#page=1002",
+  "type": "pdf",
+  "year": null
+}

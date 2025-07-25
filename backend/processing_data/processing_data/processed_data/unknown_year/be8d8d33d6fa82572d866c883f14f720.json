@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f39082b",
+  "content_hash": "be8d8d33d6fa82572d866c883f14f720",
+  "collected_at": "2025-07-25T12:12:49.609514",
+  "content": "824 \n \n39  POLY-YOLA  Adamawa State Polytechnic,  \nP.M.B. 2146,Yola,  Adamawa \nState.  \n  \n40  RAMATPOLY  Ramat Polytechnic,   \nP. M.B. 1017, Maiduguri, Borno State.  \n  \n41  RIVCOST  Rivers  State College of Health Science    \nKM 6, Ikwerre Road, Rumueme  \nP.M.B. 5039,   \nPort Harcourt   \nRiver State  \n  \n42  RUGIPO  Rufus Giwa Polytechnic,  \nP.M.B. 1019, Owo,  Ondo \nState.  \n Tel: 051-241433  \nS/N  STATE POLYTECHNICS \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF \nINSTITUTIONS  \n    \n43  SAAPADE  Gateway ICT Polytechnic, Saapade, Ogun  \nState  \n  \n44  SARO-WIWA POLY   Kenule Beeson Saro-Wiwa Polytechnic,  \nP.M.B. 20, Bori, Rivers State.  \n  \n45  TAR-POLY  Taraba State Polytechnic, Suntai  \n46  TIPE  The Ibarapa Polytechnic, \nEruwa, P.M.B. 1015, Eruwa, \nOyo State.  \n  \n47  UAS-POLY  Umar Ali Shinkafi Polytechnic ,   \nCentral Administration Office, Airport Road, \nFarfaru,   \nP.M.B. 2356, Sokoto.  \nTel: 060-231364",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 846,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 845,
+    "page_label": "846"
+  },
+  "source": "Jamb-Brochure.pdf#page=846",
+  "type": "pdf",
+  "year": null
+}

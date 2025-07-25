@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903ca",
+  "content_hash": "1f6cd5237522f82f2f26103872a545ad",
+  "collected_at": "2025-07-25T12:12:49.588039",
+  "content": "xiii \n \nPLATEAU  \nCoordinator: Mrs. Eru Onazi  \nMobile No.: 08033113039 \n  \nSOKOTO  \nCoordinator: Mr. Malami Salihu  \nMobile No.: 08036228915  \n  \nTARABA  \nCoordinator: Ms. Veronica Ayuba  \nMobile No.: 08033149722  \n  \nYOBE  \nCoordinator: Mr. Mohammed Umar Mohammed  \nMobile No.:08023442716  \n  \nZAMFARA  \nCoordinator: Mr. Muhamad Sanusi Furfuri  \nMobile No: 08066805852",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 13,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 12,
+    "page_label": "13"
+  },
+  "source": "Jamb-Brochure.pdf#page=13",
+  "type": "pdf",
+  "year": null
+}

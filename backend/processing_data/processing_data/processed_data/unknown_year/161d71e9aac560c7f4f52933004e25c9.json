@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f3909b8",
+  "content_hash": "161d71e9aac560c7f4f52933004e25c9",
+  "collected_at": "2025-07-25T12:12:49.617921",
+  "content": "1146 \n \nPROGRAMMES/COURSES AVAILABLE AT THE NIGERIA CERTIFICATE IN EDUCATION (NCE) LEVEL AND THE REQUIREMENTS FOR EACH \nCOURSE  \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \nENGLISH/IGBO L2  \nAKWANGA     \n FC-ABEO          \n FC-KANO        \n FC-OBUDU         \nFC-PANK     \n FC-YOLA      \n FC-ZARIA    \n ILESHA              \nOTTO/IJANIKIN  \n  \nFive (5) SSC credit passes in English Language, \nMathematics, Literature in English and any two (2) \nother Arts subjects.  \n  \nLiterature in English and two (2) other Arts subjects  \n  \nENGLISH/IGALA  \n ANKPA            \n  \n  \nAs in English/Igbo L2.  As in English/Igbo L2.  \nENGLISH/INTEGRATED SCIENCE  \nACOE  \n AGBOR        \nFive (5) SSC credit passes in English Language, \nMathematics, Literature in English, Biology and any \nArts/Science subject.  \n  \nLiterature in English, Biology and any Science \nsubject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1168,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1167,
+    "page_label": "1168"
+  },
+  "source": "Jamb-Brochure.pdf#page=1168",
+  "type": "pdf",
+  "year": null
+}

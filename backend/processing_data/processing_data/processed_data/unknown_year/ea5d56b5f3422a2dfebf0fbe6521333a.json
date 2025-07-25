@@ -1,0 +1,27 @@
+{
+  "_id": "6883715b1eef35261f390615",
+  "content_hash": "ea5d56b5f3422a2dfebf0fbe6521333a",
+  "collected_at": "2025-07-25T12:12:49.595333",
+  "content": "297 \n \n  \n(iv) IAUEDrequires Chemistry as one (1) of other two (2) \nsubjects.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 319,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 318,
+    "page_label": "319"
+  },
+  "source": "Jamb-Brochure.pdf#page=319",
+  "type": "pdf",
+  "year": null
+}

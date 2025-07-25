@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f390a0e",
+  "content_hash": "65af70045a82c1ee380d7dec79601590",
+  "collected_at": "2025-07-25T12:12:49.619021",
+  "content": "1210 \n \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS   \nCOE-BILLIRI  \nEACOE  \nFC-ABEO  \n IJEBU-ODE         \n ILA              \nIPERE_COE  \nLANLATECOE  \nMAIDU  \nNASE  \nOTTO/IJANIKIN   \nSACOED NCE          \n TACCOED     \n   \nPOLITICAL SCIENCE/IGALA  \n  \n ANKPA                 \n  \nFive (5) SSC credit passes in English Language, \nMathematics, Government/History and any two (2) \nArts/Social Science subject.  \n  \nGovernment/History and two (2) Arts/Social Science \nsubject.  \n  \nPOLITICAL SCIENCE/TIV  \n  \nKAT-ALA  \nLESSEL  \nFive (5) SSC  credit passes in English Language, \nMathematics, Government/History and one (1)  \nSocial Science and one (1)  Arts subject.  \n  \nGovernment/History and one (1)  Arts, one (1)  Social \nScience subject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1232,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1231,
+    "page_label": "1232"
+  },
+  "source": "Jamb-Brochure.pdf#page=1232",
+  "type": "pdf",
+  "year": null
+}

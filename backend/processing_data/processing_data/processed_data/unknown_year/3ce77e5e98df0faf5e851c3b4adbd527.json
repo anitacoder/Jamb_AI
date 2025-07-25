@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f390694",
+  "content_hash": "3ce77e5e98df0faf5e851c3b4adbd527",
+  "collected_at": "2025-07-25T12:12:49.599100",
+  "content": "428 \n \n  \n    (x)  MAUTY requires Biology/Agricultural Science and \nany two (2) of Economics, Physics, Mathematics \nand Chemistry.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 450,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 449,
+    "page_label": "450"
+  },
+  "source": "Jamb-Brochure.pdf#page=450",
+  "type": "pdf",
+  "year": null
+}

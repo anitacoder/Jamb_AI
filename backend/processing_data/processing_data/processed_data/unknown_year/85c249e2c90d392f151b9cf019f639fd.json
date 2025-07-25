@@ -1,0 +1,27 @@
+{
+  "_id": "6883715a1eef35261f39053c",
+  "content_hash": "85c249e2c90d392f151b9cf019f639fd",
+  "collected_at": "2025-07-25T12:12:49.589947",
+  "content": "107 \n \nCOURSE/DEGREE \nAWARDING INSTITUTIONS  \nDIRECT ENTRY  UTME  \nBIU     with \noptions in:  \ni)Agricultural Economics \nand    Extension Services ii) \nAnimal Production iii) \nAnimal Science iv) Crop \nProduction v) Soil Science vi) \nFishery  \nKSU      \nvii) Forestry and Wild Life \nand Environmental \nManagement  \nwith options in:  \ni) Agric. Economics \nand Extension ii) \nAnimal Production iii) \nCrop Production iv) \nSoil Science  \nADSU                              with \noptions in:  \n(i)  Agricultural Economics and \nExtension  \nii. Animal Production \niii. Crop Protection \niv. Soil Science  \nABUJA                      \nIGBINEDION            \nUYO  \nwith options in:",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 129,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 128,
+    "page_label": "129"
+  },
+  "source": "Jamb-Brochure.pdf#page=129",
+  "type": "pdf",
+  "year": null
+}

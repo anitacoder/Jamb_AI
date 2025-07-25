@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f39090c",
+  "content_hash": "bb668cd8e33c52a0ed833d74a67ad7ab",
+  "collected_at": "2025-07-25T12:12:49.615874",
+  "content": "993 \n \n59  PAN-AFR COE    PAN African College of Education,   \nOffa,  \nKwara State.  \n60  PEACELAND  Peaceland College of Education, \nEnugu,  \nEnugu State.  \n  \n61  PIAGET  Piaget College of Education,  \nP.O. Box 193,  \nQuarry Road, Ibara, Abeokuta,  \nOgun State.  \nTel: 0809 772 9196, 0903 600 2738  \nEmail: piagetcoe@gmail.com  \nWebsites: www.piagetcoe.edu.ng  \n                   www.piagetcoe.com  \n  \n62  ROYAL-CITY  Royal City College of Education, Iyesi, \nOff Idirtoko Road, Iyana Iyesi,  Otta, \nOgun State.  \nP.O. Box 14712, Ikeja, Lagos State.  \nTel: 08074595125,  08023332006,  \n07065304224  \nE-mail: christroyal@yahoo.com            \nchristroyalfamily@yahoo.com   \n63  RUFAICOL  A.D. Rufa\u2019I College for Legal and Islamic Studies,  \nMisau,  \n \nS/N  PRIVATE COLLGES \nOF EDUCATION  \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF INSTITUTIONS",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1015,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1014,
+    "page_label": "1015"
+  },
+  "source": "Jamb-Brochure.pdf#page=1015",
+  "type": "pdf",
+  "year": null
+}

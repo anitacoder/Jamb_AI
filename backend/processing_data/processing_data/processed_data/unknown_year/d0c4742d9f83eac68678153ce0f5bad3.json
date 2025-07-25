@@ -1,0 +1,27 @@
+{
+  "_id": "6883715b1eef35261f3905f8",
+  "content_hash": "d0c4742d9f83eac68678153ce0f5bad3",
+  "collected_at": "2025-07-25T12:12:49.594255",
+  "content": "267 \n \n  \nCOMPUTER EDUCATION  \nAAUA  \nBENIN      \nEDALV      \nIAUED      \nUNN      \ni. Two (2)'A' \nlevel passes or \nitsequivalents in \nPhysics and \nMathematics.  \nii. NDin  \nComputerScience  \nFive (5)SSC credit \npasses \nincludingMathema \ntics,  \nEnglishLanguage, \nPhysics, Chemistry \nand Biology.  \nMathematics, Economics/  \nCommerce plus one (1) of  \nChemistry/Physics/Biology  \n  \nDIRECT ENTRY  \n(i)        BENIN requires  \n (a)  two (2) \u2018A\u2019 level passes including Mathematics and one \n(1)Science subject plus three(3)'O\u2019 level credit passes \nincluding English Language at one sitting.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 289,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 288,
+    "page_label": "289"
+  },
+  "source": "Jamb-Brochure.pdf#page=289",
+  "type": "pdf",
+  "year": null
+}

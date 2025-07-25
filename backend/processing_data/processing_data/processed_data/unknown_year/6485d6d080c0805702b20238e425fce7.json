@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f390903",
+  "content_hash": "6485d6d080c0805702b20238e425fce7",
+  "collected_at": "2025-07-25T12:12:49.615741",
+  "content": "987 \n \n21  COEN  The College of Education, Nsukka,  P.M.B \n2003, Nsukka, Enugu State.  \n  \n22  COE-OFFA  College of Education, Irra Rd. \nIlemona,  P.M.B. 4415, Offa, Kwara \nState.  Tel. 08060281768, \n08056357566, 080521444902, \n08051687650.  \n  \n23  COE-KURA  College of Education, Kura,  \nKano State.  \n  \n24  CORNER  Cornerstone College of Education,   \nOdegbami Street. Off Adeniyi James Avenue, Ikeja \nP.O. Box 50, UNILAG Post office, Lagos State.  \n Tel. 01-7748919  \n \nS/N  PRIVATE COLLGES \nOF EDUCATION  \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF INSTITUTIONS  \n    \n25  CORONA  Corona College of Education, Lekki, Lagos State  \n  \n26  CITY  City College of Education,   \nSani Abacha Rd. Maraba Gurku,   \nP.O. Box 3094, Garki, Abuja. Tel. 09-6700452, \n096702944, 08035955966, 08036339897, \n08035487209.  \n  \n27  CRESTFIELD  Crest Field College of Education,  \nErin Osun,  \nOsun State  \n28  DELAR  Delar College of Education,   \nHousing Corporation Office, Egbeda  P.O. \nBox 6379, Agodi-Gate, Ibadan.   \nTel. 08033549165.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1009,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1008,
+    "page_label": "1009"
+  },
+  "source": "Jamb-Brochure.pdf#page=1009",
+  "type": "pdf",
+  "year": null
+}

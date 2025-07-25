@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f3908fd",
+  "content_hash": "1eb488d52cff5b02315f93d3f954f2b4",
+  "collected_at": "2025-07-25T12:12:49.615684",
+  "content": "981 \n \n29  IKERE  College of Education, Ikere  \nP.M.B. 250, Ikere  Ekiti \nState.  \n Tel. 030610152.  \n  \n30  ILA  Osun State College of Education, Ila-Orangun  \nP.M.B. 207, Ila-Orangun,  Osun State.  \n31  ILESHA  College of Education, Ilesha \n,  P.M.B. 1527, Ilesha,  Osun \nState.  \n32  ILORIN_COL  College of Education,   \nP.M.B. 1527, Ilorin, Kwara State.   \nTel.031-220051.  \n  \n33  JIGCILS  Jigawa State College of Islamic and Legal  \nStudies,  \nP.O. Box 02, Ringim,  \nJigawa State.  \n  \n34  ZING  College of Education, Zing  \nP.M.B. 1021, Zing,  Taraba \nState.  \n  \n35  GIDAN-WAYA  College of Education, Gidan-Waya,  \nP.M.B. 1024, Kafanchan, Kaduna State  \nTel. 061-20229.  \n36  KANO  Saadatu Rimi College of Education, Kumbotso  \nZaria Rd.   \nP.M.B. 3218 Kano,  Kano \nState.  \n37  KANO-CASRS  Kano State College of Arts, Science and \nRemedial Studies,",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1003,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1002,
+    "page_label": "1003"
+  },
+  "source": "Jamb-Brochure.pdf#page=1003",
+  "type": "pdf",
+  "year": null
+}

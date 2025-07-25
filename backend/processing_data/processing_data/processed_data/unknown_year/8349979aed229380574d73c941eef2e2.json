@@ -1,0 +1,27 @@
+{
+  "_id": "688371611eef35261f3908f8",
+  "content_hash": "8349979aed229380574d73c941eef2e2",
+  "collected_at": "2025-07-25T12:12:49.615636",
+  "content": "976 \n \n1  FT-AKOKA  Federal College of Education (Technical),  \nAkoka,  \n P.O. Box 269,  Yaba, \nLagos State.  \nTel: 08033208653  \nE-mail: fcetakoka@yahoo.com   \nWebsite: www.fcetakoka.org   \n2  FT-ASABA  Federal College of Education (Technical),  \nAsaba,  \n P.M.B. 1044, Asaba, Delta State.   \nTel. 046-280331,  08033208653  \nE-mail: fcetakoka@yahoo.com  \nWebsite: www.fcetakoka.org  \n3  FT-BICHI  Federal College of Education (Technical),  \nBichi,   \nP.M.B. 3473, Bichi,  Kano \nState.  \n4  FT-GOMBE  Federal College Education (Technical),  \nGombe,   \nP.M.B. 60, Gombe,  Gombe \nState.  \n5  FT-GUSAU  Federal College of Education (Technical),  \nGusau   \n(Female Only)    \n Zamfara State.   \n6  FT-OMOKU  Federal College of Education (Technical), \nOmoku, P.M.B. 11, Omoku,  Rivers State.  \n7  FT-POTIS  Federal College of Education (Technical), \nPotiskum,  Yobe State.   \nTel. 076-420716-8.  \n8  FT-UMUNZE  Federal College of Education (Technical), \nUmunze, P.M.B. 0189, Umunze,  Anambra \nState.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 998,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 997,
+    "page_label": "998"
+  },
+  "source": "Jamb-Brochure.pdf#page=998",
+  "type": "pdf",
+  "year": null
+}

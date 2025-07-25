@@ -1,0 +1,16 @@
+dnspython==2.7.0
+pymongo==4.13.2
+uvicorn
+python-dotenv
+langchain-community
+langchain
+langchain-huggingface
+numpy==1.26.4
+faiss-cpu==1.8.0
+sentence-transformers==2.7.0
+fastapi
+beautifulsoup4
+pypdf
+cryptography>=40.0.0
+google-generativeai
+requests

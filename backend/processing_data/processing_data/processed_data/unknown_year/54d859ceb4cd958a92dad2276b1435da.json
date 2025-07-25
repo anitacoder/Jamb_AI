@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f3903cc",
+  "content_hash": "54d859ceb4cd958a92dad2276b1435da",
+  "collected_at": "2025-07-25T12:12:49.588064",
+  "content": "xv \n \n7  \nFCT-ABUJA  \nJAMB CBT Centre, JAMB Headquarters, Along Law School Road, Bwari,   \nAbuja  \n8  \nJIGAWA  \nJAMB State Office, Dutse, Plot 269/270, Mechanic Village, Dutse Bye- \nPass, Dutse, Jigawa State  \n9  \nKANO  \nJAMB CBT Centre, Beside National Centre for Mass literacy, Adult and  \nNon-formal Education, Farawa, Kano State  \n10  KWARA  JAMB Zonal Office, Oyun Bridge, Old Jebba Road, Ilorin  \n11  \nNIGER  \nJAMB/NCC CBT Centre, 3 Arms Zone, Maitumbi, Beside JAMB Office,  \nMinna, Niger State  \n12  \nNIGER  \nJAMB Zonal Office, CBT Centre, 3 Arms Zone, Maitumbi, JAMB Office,  \nMinna, Niger State  \n13  \nOSUN  \nJAMB Professional Test Centre (PTC), Block Y (Commercial)OSPDC, \nService Area, Ilobu Road, Osogbo.  \n14  OYO  JAMB ZONAL OFFICE, IBADAN, Oyo State",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 15,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 14,
+    "page_label": "15"
+  },
+  "source": "Jamb-Brochure.pdf#page=15",
+  "type": "pdf",
+  "year": null
+}

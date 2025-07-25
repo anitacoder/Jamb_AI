@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f39082c",
+  "content_hash": "f67b29bde3b0971174ce86c4d01a647a",
+  "collected_at": "2025-07-25T12:12:49.609527",
+  "content": "825 \n \n48  USEN  Edo State Institute of Technology and  \nManagement, Usen   \nP.M.B., 1104, Benin City   \nEdo State, Nigeria   \nTel: 07030863183,  07035147942  \nE-mail: registrar@esitmusen.edu.ng  \n  \n49  ZUNGERU  Niger State Polytechnic, Zungeru,   \nNiger State.   \nTel. 066-710380  \n  \n  \nC. POLYTECHNICS WITH NCE PROGRAMMES  \nS/N  NAMES AND ADDRESSES OF INSTITUTIONS  \n1  Abubakar Tatari Ali Polytechnic, Bauchi State  \n2  Hassan Usman Katsina Polytechnic, Katsina  \n3  Kaduna Polytechnic, Kaduna  \nS/N  NAMES AND ADDRESSES OF INSTITUTIONS  \n4  Kano State Polytechnic, Kano  \n5  Osun State Polytechnic, Iree   \n6  Plateau State Polytechnic, Barkin-Ladi  \n7  Ramat Polytechnic, Maiduguri    \n8  Waziri Umaru Federal Polytechnic,  Birnin Kebbi,  Kebbi \nState.  \n  \n  \nD. PRIVATE POLYTECHNICS  \nS/N  PRIVATE  \nPOLYTECHNICS  \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF \nINSTITUTIONS",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 847,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 846,
+    "page_label": "847"
+  },
+  "source": "Jamb-Brochure.pdf#page=847",
+  "type": "pdf",
+  "year": null
+}

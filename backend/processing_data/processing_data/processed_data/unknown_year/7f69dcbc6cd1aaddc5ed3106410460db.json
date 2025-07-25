@@ -1,0 +1,27 @@
+{
+  "_id": "6883715a1eef35261f390595",
+  "content_hash": "7f69dcbc6cd1aaddc5ed3106410460db",
+  "collected_at": "2025-07-25T12:12:49.591239",
+  "content": "169 \n \n \nCOURSE/DEGREE AWARDING \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \n  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  DIRECT ENTRY  UTME  \n  subject  and  any \n other subject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 191,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 190,
+    "page_label": "191"
+  },
+  "source": "Jamb-Brochure.pdf#page=191",
+  "type": "pdf",
+  "year": null
+}

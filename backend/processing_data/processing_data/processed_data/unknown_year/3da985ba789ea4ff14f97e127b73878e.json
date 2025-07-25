@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f390657",
+  "content_hash": "3da985ba789ea4ff14f97e127b73878e",
+  "collected_at": "2025-07-25T12:12:49.597526",
+  "content": "364 \n \nCOURSE/DEGREE AWARDING \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n    (ii) UMUDIKE requires Chemistry, Biology/Agricultural \nScience, and Mathematics/Physics as the UTME \nsubjects.  \n(iii) BENIN requires Biology/Agricultural Science and any \nother two (2) Science or Social Science subjects.  \n(iv) MAUTY requires Biology/Agricultural Science and any \ntwo (2) of Home Economics, Economics, Chemistry, \nPhysics.  \n(v) EDOMOK requiresChemistry or Biology plus two (2) \nother Science subjects.   \n(vi) EDASAB requires Biology or Agricultural Science and any \ntwo (2) Science or Social Science subjects.  \n(v) EBSU requires a Social Science subject as the third \n(3rd) subject.  \n(vi) LAGOS requires Chemistry, Biology/Agricultural \nScience and one (1) other subject from Mathematics, \nPhysics, Foodand Nutrition.  \n(vii) BSU  requires  Mathematics, \n Chemistry  and Economics/Commerce.  \n(viii) UNN requires Chemistry or Biology plus any other \ntwo (2) Science or Social Science subjects like  \nAgricultural Science, Home Economics, Physics, \nMathematics, Economics, Commerce and  \nGeography.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 386,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 385,
+    "page_label": "386"
+  },
+  "source": "Jamb-Brochure.pdf#page=386",
+  "type": "pdf",
+  "year": null
+}

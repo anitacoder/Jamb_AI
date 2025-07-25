@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f390825",
+  "content_hash": "01240a4dc049b0d9c1574d6b3de6bdc3",
+  "collected_at": "2025-07-25T12:12:49.609329",
+  "content": "818 \n \nS/N  FEDERAL  \nPOLYTECHNICS  \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF INSTITUTIONS  \n18   FEDPO-OKO  Federal Polytechnic, Oko,  \nOrumba North L .G. A,  Anambra \nState.  \n19  FEDPO-OLJ  Federal Polytechnic,   \nIle-Oluji,  \nIpetu Ijesa Road,  \nP.M.B. 727,  \nIle-Oluji  \nOndo State.  \nTel: 08034729164  \nE-mail: registrar@fedpolel.edu.ng  \nWebsite: www.fedpolel.org  \n  \n20  FEDPO-UKA  Federal Polytechnic, Ukana  \nP.M.B. 2014,  \nUkana, Essien Udim, Akwa \nIbom State.  \nTel: 08023572991  \nE-mail: fedpolyukana@gmail.com   \n  \n21  FEDSTEN  Federal School of Dental Technology and  \nTherapy, Enugu,    \nEnugu, State   \n22  KAD-POLY  Kaduna Polytechnic, Kaduna  \n P. M. B. 2021, Kaduna   \nKaduna State  \n23  KAZAURE  Hussaini Adamu Federal Polytechnic,  \nP.M.B. 5004,  Kazaure,  Jigawa State.  \nTel: 08033334307,  08038214729  \n  \n24  NAITES  Nigeria Army Institute of Technology and  \nEnvironmental Studies   \nP.M..B 102272  \nMakurdi , Benue State  \nTel: 08079759911  \n25  NICT  National Institute for Construction Technology, \nUromi,  \nEdo State.  \nE-mail: nicturomi@gmail.com, \nonohaebi@gmail.com  Tel: \n+2348075961071",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 840,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 839,
+    "page_label": "840"
+  },
+  "source": "Jamb-Brochure.pdf#page=840",
+  "type": "pdf",
+  "year": null
+}

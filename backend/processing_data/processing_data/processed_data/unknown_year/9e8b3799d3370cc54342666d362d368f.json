@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f3908fa",
+  "content_hash": "9e8b3799d3370cc54342666d362d368f",
+  "collected_at": "2025-07-25T12:12:49.615654",
+  "content": "978 \n \n5  ANKPA  College of Education, Ankpa,  \nP.M.B.1033, Ankpa,  Kogi \nState.  \n  \n6  ARGUNGU  Adamu Augie College of Education, Argungu  \nKebbi State.  \n7  AROCHUKWU  Abia State College of Education (Technical),   \nArochukwu,  Abia \nState.  \n  \n8  AZARE  Aminu Saleh College of Education, Azare, \nP.M.B. 44, Azare Bauchi State.  Tel. 071-\n20150  \n9  BAIEDU  Bauchi State Institute of \nEducation, Kangere, Bauchi State.  \n  \n10  BAMA  Umar-Ibn EI-Kanemi College of Education,  \nScience and Technology, Bama,  \nBorno State.   \nTel. 08038664467  \n11  BOCOE  Bilyamin Othman College of Education,  \n \nS/N  STATE COLLEGES OF \nEDUCATION  \n(ABBREVIATION)  \nNAMES AND ADDRESSES OF INSTITUTIONS  \n  P.M.B. 001,  \nDass  \nBauchi State.  \nTeL 07034573403,  08022126314  \n  \n12  COE-BILLIRI  College of Education,  \nP.M.B. 011,  \nBilliri,  \nGombe State.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1000,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 999,
+    "page_label": "1000"
+  },
+  "source": "Jamb-Brochure.pdf#page=1000",
+  "type": "pdf",
+  "year": null
+}

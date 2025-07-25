@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f3908fb",
+  "content_hash": "f645ac913d71c812843faeb3036fe0c5",
+  "collected_at": "2025-07-25T12:12:49.615665",
+  "content": "979 \n \n13  IMSCOL  Imo State College of Education,  \nIhitte/Uboma, Imo State,  \nTel: 07085021629, 08137997283, 07057267639  \nE-mail: imscedu@gmail.com   \nWebsite: www.imostatecollegeof education.edu.ng  \n14  IJBCOE  Isaac Jasper Boro College of Education,  \nSagbama,  \nP. M. B. 74 Yenagoa  \nBayelsa State  \n15  DUTSINMA  Isa Kaita College of Education,   \nP.M.B. 5007, Dutsinma,  \n Katsina State.  \n16  EACOE  Emmanuel Alayande College of Education, \nP.M.B. 1010,  Oyo,  Oyo State.  \nwebsite:www.eacoed.com,   \nwww.eacoed.edu.ng  \n17  ESCE(T)  Enugu State College of Education (Tech.) Enugu \nAbakaliki Rd. P.M.B. 01793, Enugu,  Enugu \nState.   \nTel. 042-313557  \n18  EKIADOLOR  College of Education, Ekiadolo,  P.M.B. \n1144, Benin City, Edo State.   \nTel. 052-440002.  \n19  GASHUA  Umar Suleiman College of Education,  \n \nS/N  STATE COLLEGES \nOF EDUCATION  \n(ABBREVIATION)  \nNAMES AND ADDRESSES OF INSTITUTIONS  \n   P.M.B. 02 Gashua,  Yobe \nState.  \n20  GINDIRI  College of Education, Gindiri  Plateau \nState.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1001,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1000,
+    "page_label": "1001"
+  },
+  "source": "Jamb-Brochure.pdf#page=1001",
+  "type": "pdf",
+  "year": null
+}

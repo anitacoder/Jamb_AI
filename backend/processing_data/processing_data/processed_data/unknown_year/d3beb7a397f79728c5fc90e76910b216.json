@@ -1,0 +1,27 @@
+{
+  "_id": "6883715a1eef35261f39052a",
+  "content_hash": "d3beb7a397f79728c5fc90e76910b216",
+  "collected_at": "2025-07-25T12:12:49.589572",
+  "content": "89 \n \n(i) ABU requires Five (5) \u2018O\u2019 level credit passes \nincluding English Language, Government or  \n \nCOURSE/  \nDEGREE AWARDING  \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 111,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 110,
+    "page_label": "111"
+  },
+  "source": "Jamb-Brochure.pdf#page=111",
+  "type": "pdf",
+  "year": null
+}

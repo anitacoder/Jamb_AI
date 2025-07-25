@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f390662",
+  "content_hash": "fd2eaeb051adafbb4e863abf3947947f",
+  "collected_at": "2025-07-25T12:12:49.597996",
+  "content": "375 \n \nCOURSE/DEGREE AWARDING \nINSTITUTIONS  \nREQUIREMENTS    \nUTME SUBJECTS  \nSPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n     (ii) For BENIN the third (3rd) subject could also be an Arts \nor a Social Science subject.  \n(iii) AAUA requires two (2) other subjects from Arts or \nSocial Sciences.  \n(iv) LAGOS accepts any three (3) Of Literature in English, \nHistory/Government, French/Arabic, Geography, \nMath, Yoruba/Igbo, Christian Religious Studies/Islamic \nStudies and any of Economics or Commerce.  \n(v) SLUK accepts any three (3) subjects from Literature \nin Eng lish, History, Government, Arabic, French, \nHausa and Islamic Studies.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 397,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 396,
+    "page_label": "397"
+  },
+  "source": "Jamb-Brochure.pdf#page=397",
+  "type": "pdf",
+  "year": null
+}

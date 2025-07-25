@@ -1,0 +1,27 @@
+{
+  "_id": "688371611eef35261f3908d2",
+  "content_hash": "00a1fcfaa68541f82e823f3efbe037ca",
+  "collected_at": "2025-07-25T12:12:49.614616",
+  "content": "941 \n \n  \n16  CCTI  Complete Computers and Technology Institute,  \n11, Adesuwa Grammar School Road,  \nGRA, off Sapele Road, Benin City, Edo State.  \nTel: 08033535625,  08073210260  \n  \n17  CHERISH  Cherish Enterprise Institute,  \nBatsari,   \nKatsina State.  \n  \n18  CIBTECH  Central Institute of Business and Technology,  \nKilometer 4, Benin-Abraka Road, Egba,  \nBenin City.  \n  \n19  CISN  The Certified Institute of Shipping of Nigeria,  \n(College of Maritime Transport Management and  \nTechnology)  \nCIS COMPLEX, Magbon Bus Stop,   \nBadagry, Expressway,  \nP.O. BOX 4335, Apapa., Lagos",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 963,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 962,
+    "page_label": "963"
+  },
+  "source": "Jamb-Brochure.pdf#page=963",
+  "type": "pdf",
+  "year": null
+}

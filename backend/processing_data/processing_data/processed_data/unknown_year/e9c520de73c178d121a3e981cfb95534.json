@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f390818",
+  "content_hash": "e9c520de73c178d121a3e981cfb95534",
+  "collected_at": "2025-07-25T12:12:49.608358",
+  "content": "806 \n \n(xxi) FED-DUTSINMA requires 'A' level passes in History, \nGeography, Literature in English, Religious Knowledge, \nSocial Studies, Sociology, Political Science or Economics.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 828,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 827,
+    "page_label": "828"
+  },
+  "source": "Jamb-Brochure.pdf#page=828",
+  "type": "pdf",
+  "year": null
+}

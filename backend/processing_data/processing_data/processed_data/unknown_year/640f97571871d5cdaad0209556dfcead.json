@@ -1,0 +1,27 @@
+{
+  "_id": "688371671eef35261f390b41",
+  "content_hash": "640f97571871d5cdaad0209556dfcead",
+  "collected_at": "2025-07-25T12:13:03.837990",
+  "content": "S/N Name of Institution Minimum \nScore \n178.  SOUTHWESTERN UNIVERSITY, OKUN-OWA, OGUN STATE 160 \n179.  ECWA COLLEGE OF EDUCATION, IGBAJA, KWARA STATE 160 \n180.  FEDERAL COLLEGE OF EDUCATION(TECH.), GUSAU(AFFL TO ABU ZARIA) 160 \n181.  COLLEGE OF ARABIC AND ISLAMIC LEGAL STUDIES, ILORIN. (AFFL TO \nBAYERO UNIV, KANO) 160 \n182.  OSUN STATE COLLEGE OF EDUCATION, ILESA, OSUN STATE.  (AFFL TO \nUNIV OF IBADAN) 160",
+  "file_info": {
+    "filename": "2020minimum_cut_off_submitted_by_insts.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/2020minimum_cut_off_submitted_by_insts.pdf",
+    "page_number": 7,
+    "total_pages": 28,
+    "file_size": 810569
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2013",
+    "creator": "Microsoft\u00ae Word 2013",
+    "creationdate": "2020-06-22T17:58:55+01:00",
+    "author": "User",
+    "moddate": "2020-06-22T17:58:55+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/2020minimum_cut_off_submitted_by_insts.pdf",
+    "total_pages": 28,
+    "page": 6,
+    "page_label": "7"
+  },
+  "source": "2020minimum_cut_off_submitted_by_insts.pdf#page=7",
+  "type": "pdf",
+  "year": null
+}

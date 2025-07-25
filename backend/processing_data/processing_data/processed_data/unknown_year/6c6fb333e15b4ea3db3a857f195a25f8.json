@@ -1,0 +1,27 @@
+{
+  "_id": "688371581eef35261f390476",
+  "content_hash": "6c6fb333e15b4ea3db3a857f195a25f8",
+  "collected_at": "2025-07-25T12:12:49.588506",
+  "content": "25 \n \n  \n     Faculty/Department where acceptable  \n  \n- Adult Education  \n  \n- Agriculture, Agric Education  \n  \n- Accountancy, Finance, Management, Marketing, Business Education  \n  \n- Health & Physical Education, Physiology & Adult Education  \n  \n- Linguistic & Nigerian Languages  \n  \n- Library Science  \n  \n- Mass Communication  \n  \n- Adult Education/Government & Political Science  \n  \n    \n    \n- Religion, Archaeology, Adult Education, Education/ Religion,   \n   Psychology and Linguistics and Nigeria Languages  \n  \n- Sociology/Anthropology, Social Work and Community   \n   Development, Adult Education and Psychology  \n  \n   Diploma/Certificate  \n  \n   (i)  Diploma in Animal Health and Husbandry  \n  \n ii)  Final Diploma of the Institute of Chartered Accountants of Nigeria (ICAN)  \n  \n(iii) Diploma in Music Education  \n  \n(iv) Associate Member of Library Association.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 47,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 46,
+    "page_label": "47"
+  },
+  "source": "Jamb-Brochure.pdf#page=47",
+  "type": "pdf",
+  "year": null
+}

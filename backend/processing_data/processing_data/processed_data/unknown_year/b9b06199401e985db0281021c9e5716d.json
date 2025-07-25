@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f390900",
+  "content_hash": "b9b06199401e985db0281021c9e5716d",
+  "collected_at": "2025-07-25T12:12:49.615712",
+  "content": "984 \n \n52  ZUBA  FCT College of Education, Zuba,  FCT-\nAbuja.  \n  \nE. PRIVATE COLLEGES OF EDUCATION  \n  \nS/N  PRIVATE COLLGES \nOF EDUCATION  \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF INSTITUTIONS  \n1  ACOE  Alhikma College of Education, Ankpa, Kogi \nState.  \n  \n  \n2  ADESHINA  Adeshina College of Education, \nShare, Ifelodun L.G.A., Kwara \nState.  \n3  AICOEP  Arabic and Islamic College of Education,  \nP. O. Box 127,   \nPotiskum, Yobe State.  \nTel: 08068962851,   07068962792  \n  \n  \n4  COE-ERO  College of Education, Ero-Akure,  \nkm 10, Akure-Express Way,  P.O. \nBox 31, Akure   Ondo State.   \nTel: 08033025906, 08033946501  \n  \n5  AKLEGAL  Aminu Kano College of Islamic and Legal  \nStudies,  \nKano, Kano State.  \n  \n6  AL-IBADAN  Al-Ibadan College of Education,  Ibadan,  \nOyo State.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1006,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1005,
+    "page_label": "1006"
+  },
+  "source": "Jamb-Brochure.pdf#page=1006",
+  "type": "pdf",
+  "year": null
+}

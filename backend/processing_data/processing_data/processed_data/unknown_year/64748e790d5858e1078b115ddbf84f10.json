@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f390995",
+  "content_hash": "64748e790d5858e1078b115ddbf84f10",
+  "collected_at": "2025-07-25T12:12:49.617398",
+  "content": "1111 \n \nPROGRAMMES/COURSES AVAILABLE AT THE NIGERIA CERTIFICATE IN EDUCATION (NCE) LEVEL AND THE REQUIREMENTS FOR EACH \nCOURSE  \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n GINDIRI       \n GUMEL            \nIJEBU-ODE      \nIKWO  \nILESHA  \n KANO             \nKAT-ALA    \nMINNA  \n NOCOEN            \n OJU             \n ORO        \nOTTO/IJANIKIN  \n WARRI_COE        \nZUBA  \n  \n  \nECONOMICS/IGBO  \nADEYEMI  \nFive (5) SSC credit passes in English Language, \nMathematics, Economics, Igbo and any other \nArts/Social Science subject.  \n  \nEconomics, Igbo and any other Arts/Social Science \nsubject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1133,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1132,
+    "page_label": "1133"
+  },
+  "source": "Jamb-Brochure.pdf#page=1133",
+  "type": "pdf",
+  "year": null
+}

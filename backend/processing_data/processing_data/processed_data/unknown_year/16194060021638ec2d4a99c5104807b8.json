@@ -1,0 +1,27 @@
+{
+  "_id": "688371621eef35261f39092a",
+  "content_hash": "16194060021638ec2d4a99c5104807b8",
+  "collected_at": "2025-07-25T12:12:49.615984",
+  "content": "1004 \n \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n IKWO            \n ILA             \n ILESHA                \nILORIN_COL  \nKANO                  \n KAT-ALA          \nKGCOET  \nLAFIAGI (T)       \nLANLALTECOE  \nMAIDU           \nMARU  \nMCF-COE  \nMINNA   \nMOCPED  \nMOSOGAR         \nMULCOED         \nMURICOED  \nNASE",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1026,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1025,
+    "page_label": "1026"
+  },
+  "source": "Jamb-Brochure.pdf#page=1026",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f390832",
+  "content_hash": "bde3d11c95db23168914329bae221e0a",
+  "collected_at": "2025-07-25T12:12:49.609667",
+  "content": "831 \n \nS/N  PRIVATE  \nPOLYTECHNICS  \n(ABBREVIATIONS)  \nNAMES AND ADDRESSES OF \nINSTITUTIONS  \n33  PRIME-POLY  Prime Polytechnic,  \nJidda Bassa, \nAjaokuta,  Kogi \nState.  \n  \n34  RONIK  RONIK Polytechnic, 23-25, Ailegun  \nRoad,  \nOff Ejigbo/Egbe Road, P.M.B. 21764, \nIkeja - Lagos.  \n  \n35  SHAKA  Shaka Polytechnic.  \n1, Prince Shaka Momodu Stret, Ogiso,   \nOff Muritala Mohammed Way,   \nP.M.B. 1240,  \nBenin City, Edo State.  \n  \n36  ST MARY-POLY  St. Mary Polytechnic,  \nKwamba,  \nSuleja,  \nNiger State.  \n37  SURE-POLY  Sure Foundation Polytechnic,  \nIkot Akai,  \nUkanafun LGA,  \nAkwa Ibom State. Website: \nwww.sfp.edu.ng e-Mail: \nsurefoundation.edu@gmail.com  \nTel: 08064257940,  08168338559  \n  \n38  TEMPLE-GATE  Temple-Gate Polytechnic   \nP.O.Box 3448, Aba Abayi,   \nOsisioma, Abia State  \nTel: _2348037102981, 0802350396  \nEmail: tempegatepoly@yahoo.com",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 853,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 852,
+    "page_label": "853"
+  },
+  "source": "Jamb-Brochure.pdf#page=853",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "6883715a1eef35261f390542",
+  "content_hash": "ccc3b57add17c0dc4abda22dd03ae54a",
+  "collected_at": "2025-07-25T12:12:49.590035",
+  "content": "113 \n \n \nCOURSE/DEGREE \nAWARDING INSTITUTIONS  \nREQUIREMENTS  UTME SUBJECTS  SPECIAL CONSIDERATION (WAIVER) REMARKS  \nDIRECT ENTRY  UTME  \n    (ix) OOU \u2013 Biology or Agricultural Science and any other \ntwo (2) relevant subjects.  \n(x) LASU requires Biology, Chemistry and Mathematics.  \n(xi) ABU requires Mathematics as the third (3rd) subject.  \n(xii) BOWEN requires Biology, Chemistry and Physics.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 135,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 134,
+    "page_label": "135"
+  },
+  "source": "Jamb-Brochure.pdf#page=135",
+  "type": "pdf",
+  "year": null
+}

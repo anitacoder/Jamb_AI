@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f3909b5",
+  "content_hash": "234e91c91108dde684f00939c9301499",
+  "collected_at": "2025-07-25T12:12:49.617895",
+  "content": "1143 \n \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n NOCOEN            \n OJU                  \n ORO                 \n OTTO/IJANIKIN                \n SOKOTO            \nWARRI-COE_COE  \n ZING           \n ZUBA          \n  \n  \nENGLISH/IBIBIO  \nAKSCOE        \nELDER OYAMA  \n  \n  \nENGLISH/EFIK  \nELDER OYAMA  \n  \nFive (5) SSC credit passes in English Language, \nMathematics, Literature in English and any two (2) \nother Arts subjects.  \n  \nLiterature in English and any two (2) Arts subjects  \n  \nENGLISH/IGBO  \n AGBOR             \nFive (5) SSC credit passes in English Language, \nMathematics, Literature in English, Igbo Language \nand any other Arts  subject  \n  \nIgbo, Literature in English,  and any Arts subject",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1165,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1164,
+    "page_label": "1165"
+  },
+  "source": "Jamb-Brochure.pdf#page=1165",
+  "type": "pdf",
+  "year": null
+}

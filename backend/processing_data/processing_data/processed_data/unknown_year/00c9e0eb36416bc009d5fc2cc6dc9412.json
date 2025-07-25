@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f3909ab",
+  "content_hash": "00c9e0eb36416bc009d5fc2cc6dc9412",
+  "collected_at": "2025-07-25T12:12:49.617708",
+  "content": "1133 \n \n \nPROGRAMMES/COURSES AVAILABLE AT THE NIGERIA CERTIFICATE IN EDUCATION (NCE) LEVEL AND THE REQUIREMENTS FOR EACH \nCOURSE  \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \nENGLISH/POLITICAL SCIENCE  \nADESHINA  \nAGBOR  \nAKAMKPA  \nAKSCOE                    \nAL-IBADAN  \nANGEL  \n ANKPA     \n ANSAR     \nASSCOED  \nATCOI  \nBAMA  \n CITY      \nCOEN  \nCOE-BILLIRI  \nCOE-ERO  \n COE-OFFA                 \n CORNER    \nFive (5) SSC credit passes in English Language,  \nMathematics, Literature in English, \nGovernment/History and any other Arts/Social \nScience  subject.  \n  \nLiterature in English, Government/History and any \nother Arts/Social Science subject.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1155,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1154,
+    "page_label": "1155"
+  },
+  "source": "Jamb-Brochure.pdf#page=1155",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "6883715a1eef35261f39053b",
+  "content_hash": "2d9d6d2bac2f67370fe63f62af96713d",
+  "collected_at": "2025-07-25T12:12:49.589935",
+  "content": "106 \n \n(ii) Animal Science  \n(iii) Agronomy  \n \nREQUIREMENTS  UTME SUBJECTS  SPECIAL CONSIDERATION (WAIVER) REMARKS",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 128,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 127,
+    "page_label": "128"
+  },
+  "source": "Jamb-Brochure.pdf#page=128",
+  "type": "pdf",
+  "year": null
+}

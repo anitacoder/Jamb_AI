@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f3909bd",
+  "content_hash": "aa1079bea26bf01cb37854f2d26413f5",
+  "collected_at": "2025-07-25T12:12:49.617965",
+  "content": "1151 \n \nPROGRAMMES/COURSES AVAILABLE AT THE NIGERIA CERTIFICATE IN EDUCATION (NCE) LEVEL AND THE REQUIREMENTS FOR EACH \nCOURSE  \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n MOCPED        \n MUHYIDEEN      \n MULCOED       \nNASE  \n ORO                    \nOTTO/IJANIKIN   \n PAN-AFR COE       \nRUFAICOL  \nSARKIN-YAMMA  \n SOKOTO               \n SACOED NCE                   \n WAKABIU        \nYBUCLGS  \nZING    \n ZUBA          \n  \n  \n  \nENGLISH/KANURI  Five (5) SSC credit passes in English Language, \nMathematics, Literature in English and any other \ntwo (2) Arts subjects.  \nLiterature in English and any other two (2) Arts \nsubjects.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1173,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1172,
+    "page_label": "1173"
+  },
+  "source": "Jamb-Brochure.pdf#page=1173",
+  "type": "pdf",
+  "year": null
+}

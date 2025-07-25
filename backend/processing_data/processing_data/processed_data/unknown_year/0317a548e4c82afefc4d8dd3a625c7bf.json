@@ -1,0 +1,27 @@
+{
+  "_id": "688371601eef35261f390838",
+  "content_hash": "0317a548e4c82afefc4d8dd3a625c7bf",
+  "collected_at": "2025-07-25T12:12:49.609850",
+  "content": "837 \n \n29  NWRI-MANDO  National Water Resources Institute,  \nMando Road,  \nP.M.B. 2309,  \nKaduna,  \nKaduna State  \n  \n30  PTI  Petroleum Training Institute,  \nP.M.B. 20,  \nEffurun,  \nDelta State  \nWebsite: www.pti.edu.ng  \nE-mail: info@pti.edu.ng  \n  \n31  SBE-MAID  School of Biomedical Engineering,  \nUniversity of Maiduguri Teaching Hospital,  \nMaiduguri,  \nBorno State.  \n  \n32  SBE-UBTH  School of Biomedical Engineering,  \nUniversity of Benin Teaching Hospital, Benin,  \nEdo State.  \n  \n33  SOCAST-KAN  School of  Orthopedic Cast Technology,  \nNational Orthopedic \nHospital, Dala, Kano,  Kano \nState.  \n  \n34  SOCAST-ENU  School of  Orthopedic Cast Technology,  \nNational Orthopedic Hospital,  \nEnugu,  \nEnugu State.  \n  \nS/N  FEDERAL  \nMONOTECHNICS  \n(ABBREVIATION)  \nNAMES AND ADDRESSES OF \nINSTITUTIONS  \n35  SOCAST-ILR  School of  Orthopedic Cast Technology,  \nUniversity of Ilorin Teaching Hospital, Ilorin,  \nKwara State.  \n  \n  \n  \nF. STATE MONOTECHNICS",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 859,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 858,
+    "page_label": "859"
+  },
+  "source": "Jamb-Brochure.pdf#page=859",
+  "type": "pdf",
+  "year": null
+}

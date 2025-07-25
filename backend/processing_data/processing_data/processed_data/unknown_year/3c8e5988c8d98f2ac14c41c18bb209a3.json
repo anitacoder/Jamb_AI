@@ -1,0 +1,27 @@
+{
+  "_id": "6883715c1eef35261f39065a",
+  "content_hash": "3c8e5988c8d98f2ac14c41c18bb209a3",
+  "collected_at": "2025-07-25T12:12:49.597591",
+  "content": "367 \n \n  \n  \n  \n  \n  \n  subjects, two (2) of which must be Science subjects \nand at not more than two (2) sittings.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 389,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 388,
+    "page_label": "389"
+  },
+  "source": "Jamb-Brochure.pdf#page=389",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,74 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev
+    container_name: frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      backend_app:
+        condition: service_started
+    networks:
+      - jamb_network
+
+  backend_app:
+    build: ./backend
+    container_name: jamb_backend_container
+    ports:
+      - "8000:8000"
+    environment:
+      MONGO_URI: "mongodb://mongodb:27017/"
+      MONGO_DB_NAME: "jamb_db"
+    volumes:
+      - ./backend:/app
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    networks:
+      - jamb_network
+    restart: unless-stopped
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb 
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    networks:
+      - jamb_network
+    restart: unless-stopped
+
+  mongo-express:
+    image: mongo-express:latest
+    container_name: jamb_express
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongodb
+      ME_CONFIG_MONGODB_PORT: 27017
+      ME_CONFIG_BASICAUTH_USERNAME: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: pass
+      ME_CONFIG_MONGODB_URL: mongodb://mongodb:27017/
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    networks:
+      - jamb_network
+
+networks:
+  jamb_network:
+    driver: bridge
+
+volumes:
+  mongo_data: {}

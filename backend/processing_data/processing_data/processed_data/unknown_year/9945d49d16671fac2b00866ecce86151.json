@@ -1,0 +1,27 @@
+{
+  "_id": "688371631eef35261f390a17",
+  "content_hash": "9945d49d16671fac2b00866ecce86151",
+  "collected_at": "2025-07-25T12:12:49.619103",
+  "content": "1219 \n \nCOLLEGE/COURSE  COURSE REQUIREMENTS  UTME SUBJECTS  \n KANO            \n KAT-ALA      \n ORO             \nOTTO/IJANIKIN   \n SOKOTO          \n    \n    \n       \n   \n    \n  \n  \n  \n AKWANGA     \n ALVAN           \n FC-AMUFU       \n FC-KONTA     \n FC-OBUDU       \n FC-OKENE       \n FC-PANK         \n ILESHA       \n KANO            \nHAUSA/IGBO  \n  \n  \n  \n  \nFive (5) SSC credit passes in English Language, \nMathematics, Hausa/Igbo and any other two (2) \nArts subjects.  \n  \nHausa/Igbo and any two (2) Arts subjects.",
+  "file_info": {
+    "filename": "Jamb-Brochure.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "page_number": 1241,
+    "total_pages": 1307,
+    "file_size": 6544653
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word 2016",
+    "creator": "Microsoft\u00ae Word 2016",
+    "creationdate": "2019-12-12T08:14:27+01:00",
+    "author": "Stephen Tamuno-opubo",
+    "moddate": "2019-12-12T08:14:27+01:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/Jamb-Brochure.pdf",
+    "total_pages": 1307,
+    "page": 1240,
+    "page_label": "1241"
+  },
+  "source": "Jamb-Brochure.pdf#page=1241",
+  "type": "pdf",
+  "year": null
+}
