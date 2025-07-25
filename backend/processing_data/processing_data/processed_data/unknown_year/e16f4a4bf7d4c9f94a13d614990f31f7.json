@@ -1,0 +1,26 @@
+{
+  "_id": "68837f6535e44bd06fe1513b",
+  "content_hash": "e16f4a4bf7d4c9f94a13d614990f31f7",
+  "collected_at": "2025-07-25T12:58:13.940402",
+  "content": "Commerce \n1994 - 2004  \nLASU-INFO \nJAMB \nQuestions",
+  "file_info": {
+    "filename": "JAMB Commerce Past Question 1994 - 2003.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Commerce Past Question 1994 - 2003.pdf",
+    "page_number": 1,
+    "total_pages": 29,
+    "file_size": 668275
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:41:27+00:00",
+    "moddate": "2020-04-14T18:41:27+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Commerce Past Question 1994 - 2003.pdf",
+    "total_pages": 29,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Commerce Past Question 1994 - 2003.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

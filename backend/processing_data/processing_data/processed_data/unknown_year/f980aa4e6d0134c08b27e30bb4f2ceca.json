@@ -1,0 +1,26 @@
+{
+  "_id": "68837f5e35e44bd06fe15063",
+  "content_hash": "f980aa4e6d0134c08b27e30bb4f2ceca",
+  "collected_at": "2025-07-25T12:58:05.307649",
+  "content": "29 \n \n  \nANSWER KEYS: \n25. C 33. C 41. C 49. A \n26. D 34. C 42. D 50. B \n27. A 35. D 43. C   \n28. A 36. A 44. C   \n29. C 37. D 45. D   \n30. B 38. B 46. D   \n31. A 39. C 47. A   \n32. B 40. B 48. D   \n \n1. C 9. D  17. C \n2. A 10. C 18. C \n3. C 11. B 19. B \n4. B 12. D 20. D \n5. C 13. A 21. D \n6. C 14. B 22. C \n7. D 15. D 23. C \n8. D 16. B 24. B",
+  "file_info": {
+    "filename": "JAMB Economics Past Questions and Answers 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Economics Past Questions and Answers 2010 - 2018.pdf",
+    "page_number": 29,
+    "total_pages": 51,
+    "file_size": 1147167
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T19:00:10+00:00",
+    "moddate": "2020-04-14T19:00:10+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Economics Past Questions and Answers 2010 - 2018.pdf",
+    "total_pages": 51,
+    "page": 28,
+    "page_label": "29"
+  },
+  "source": "JAMB Economics Past Questions and Answers 2010 - 2018.pdf#page=29",
+  "type": "pdf",
+  "year": null
+}

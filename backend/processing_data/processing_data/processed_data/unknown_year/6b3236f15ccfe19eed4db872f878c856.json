@@ -1,0 +1,26 @@
+{
+  "_id": "68837f5d35e44bd06fe14f4c",
+  "content_hash": "6b3236f15ccfe19eed4db872f878c856",
+  "collected_at": "2025-07-25T12:58:05.307278",
+  "content": "1 \n \nECONOMICS  \n2010 - \n2018  \nLASU-INFO \nJAMB \nQuestions And \nAnswers",
+  "file_info": {
+    "filename": "JAMB Economics Past Questions and Answers 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Economics Past Questions and Answers 2010 - 2018.pdf",
+    "page_number": 1,
+    "total_pages": 51,
+    "file_size": 1147167
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T19:00:10+00:00",
+    "moddate": "2020-04-14T19:00:10+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Economics Past Questions and Answers 2010 - 2018.pdf",
+    "total_pages": 51,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Economics Past Questions and Answers 2010 - 2018.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "68837f5935e44bd06fe14e85",
+  "content_hash": "1db0f6816f0f0c641c5984de22fba44a",
+  "collected_at": "2025-07-25T12:58:00.394152",
+  "content": "ANSWER KEYS \n1. C \n2. D \n3. A \n4. B \n5. B \n6. A \n7. B \n8. B \n9. C \n10. C \n11. D \n12. C \n13. D \n14. D",
+  "file_info": {
+    "filename": "JAMB Biology Past Questions 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "page_number": 31,
+    "total_pages": 53,
+    "file_size": 1121744
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:17:34+00:00",
+    "moddate": "2020-04-14T18:17:34+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "total_pages": 53,
+    "page": 30,
+    "page_label": "31"
+  },
+  "source": "JAMB Biology Past Questions 2010 - 2018.pdf#page=31",
+  "type": "pdf",
+  "year": null
+}

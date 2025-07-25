@@ -1,0 +1,26 @@
+{
+  "_id": "68837f4035e44bd06fe144ae",
+  "content_hash": "9ada49cd42f3c1bc377f51c54784d459",
+  "collected_at": "2025-07-25T12:57:36.146064",
+  "content": "Economics \n1983  - 2004  \nLASU-INFO \nJAMB \nQuestions",
+  "file_info": {
+    "filename": "JAMB Economics Past Question 1983 - 2004.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Economics Past Question 1983 - 2004.pdf",
+    "page_number": 1,
+    "total_pages": 70,
+    "file_size": 1862529
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:53:21+00:00",
+    "moddate": "2020-04-14T18:53:21+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Economics Past Question 1983 - 2004.pdf",
+    "total_pages": 70,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Economics Past Question 1983 - 2004.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

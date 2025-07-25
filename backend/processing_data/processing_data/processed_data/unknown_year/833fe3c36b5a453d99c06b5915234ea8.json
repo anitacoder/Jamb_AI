@@ -1,0 +1,26 @@
+{
+  "_id": "68837fff35e44bd06fe1634e",
+  "content_hash": "833fe3c36b5a453d99c06b5915234ea8",
+  "collected_at": "2025-07-25T13:00:47.215275",
+  "content": "Government \n1983  - 2004  \nLASU-INFO \nJAMB \nQuestions",
+  "file_info": {
+    "filename": "JAMB Government Past Question 1983 - 2004.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Government Past Question 1983 - 2004.pdf",
+    "page_number": 1,
+    "total_pages": 56,
+    "file_size": 1333384
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T19:05:52+00:00",
+    "moddate": "2020-04-14T19:05:52+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Government Past Question 1983 - 2004.pdf",
+    "total_pages": 56,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Government Past Question 1983 - 2004.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

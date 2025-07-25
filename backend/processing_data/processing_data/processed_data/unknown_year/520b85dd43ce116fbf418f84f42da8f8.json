@@ -1,0 +1,26 @@
+{
+  "_id": "68837f1335e44bd06fe13b90",
+  "content_hash": "520b85dd43ce116fbf418f84f42da8f8",
+  "collected_at": "2025-07-25T12:56:51.730195",
+  "content": "7  \n20. B \n21. A \n22. D \n23. A \n24. A \n25. C \n26. A \n27. D \n28. B \n29. A \n30. A \n31. D \n32. D \n33. B \n34. A \n35. D \n36. B \n37. D \n38. C \n39. A \n40. C \n41. A \n42. A \n43. B \n44. B \n45. D \n46. A \n47. B \n48. B \n49. C \n50. D",
+  "file_info": {
+    "filename": "JAMB Government Past Questions and Answers 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Government Past Questions and Answers 2010 - 2018.pdf",
+    "page_number": 7,
+    "total_pages": 47,
+    "file_size": 577721
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T19:12:35+00:00",
+    "moddate": "2020-04-14T19:12:35+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Government Past Questions and Answers 2010 - 2018.pdf",
+    "total_pages": 47,
+    "page": 6,
+    "page_label": "7"
+  },
+  "source": "JAMB Government Past Questions and Answers 2010 - 2018.pdf#page=7",
+  "type": "pdf",
+  "year": null
+}

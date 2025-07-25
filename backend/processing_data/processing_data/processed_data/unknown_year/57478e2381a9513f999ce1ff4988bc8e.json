@@ -1,0 +1,26 @@
+{
+  "_id": "68837ff435e44bd06fe15f48",
+  "content_hash": "57478e2381a9513f999ce1ff4988bc8e",
+  "collected_at": "2025-07-25T13:00:36.386870",
+  "content": "Mathematics  \n1983  - 2004  \nLASU-INFO \nJAMB \nPast Questions",
+  "file_info": {
+    "filename": "JAMB Mathematics Past Questions 1983 - 2004.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Mathematics Past Questions 1983 - 2004.pdf",
+    "page_number": 1,
+    "total_pages": 65,
+    "file_size": 3098316
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T19:18:27+00:00",
+    "moddate": "2020-04-14T19:18:27+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Mathematics Past Questions 1983 - 2004.pdf",
+    "total_pages": 65,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Mathematics Past Questions 1983 - 2004.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

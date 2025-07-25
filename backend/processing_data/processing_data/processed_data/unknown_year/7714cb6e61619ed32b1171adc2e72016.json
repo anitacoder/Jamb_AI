@@ -1,0 +1,26 @@
+{
+  "_id": "68837f5935e44bd06fe14e4c",
+  "content_hash": "7714cb6e61619ed32b1171adc2e72016",
+  "collected_at": "2025-07-25T12:58:00.394079",
+  "content": "50. A \nANSWER KEYS \n1. C \n2. B \n3. D \n4. D \n5. D \n6. C \n7. B \n8. D \n9. A \n10. A \n11. D \n12. C \n13. A \n14. C \n15. D \n16. A \n17. B \n18. D \n19. A \n20. D \n21. B \n22. B \n23. A \n24. A \n25. B",
+  "file_info": {
+    "filename": "JAMB Biology Past Questions 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "page_number": 25,
+    "total_pages": 53,
+    "file_size": 1121744
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:17:34+00:00",
+    "moddate": "2020-04-14T18:17:34+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "total_pages": 53,
+    "page": 24,
+    "page_label": "25"
+  },
+  "source": "JAMB Biology Past Questions 2010 - 2018.pdf#page=25",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "68837f1335e44bd06fe13b58",
+  "content_hash": "63d1969ebca70b4d9096527e5cc58ab1",
+  "collected_at": "2025-07-25T12:56:51.729989",
+  "content": "1  \nGOVERNMENT  \n2010 -2018  \nLASU-INFO \nJAMB \nPast Questions \nAnd Answers",
+  "file_info": {
+    "filename": "JAMB Government Past Questions and Answers 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Government Past Questions and Answers 2010 - 2018.pdf",
+    "page_number": 1,
+    "total_pages": 47,
+    "file_size": 577721
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T19:12:35+00:00",
+    "moddate": "2020-04-14T19:12:35+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Government Past Questions and Answers 2010 - 2018.pdf",
+    "total_pages": 47,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Government Past Questions and Answers 2010 - 2018.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

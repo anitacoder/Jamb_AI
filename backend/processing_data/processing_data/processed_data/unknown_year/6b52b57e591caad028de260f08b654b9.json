@@ -1,0 +1,26 @@
+{
+  "_id": "6883802035e44bd06fe16e1d",
+  "content_hash": "6b52b57e591caad028de260f08b654b9",
+  "collected_at": "2025-07-25T13:01:19.355920",
+  "content": "16. Which of the labeled parts is the \ndiastema? A. 2 B. 3 C. 4 D. \n6.",
+  "file_info": {
+    "filename": "JAMB Biology Past Questions 1983 - 2004.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 1983 - 2004.pdf",
+    "page_number": 28,
+    "total_pages": 55,
+    "file_size": 2195959
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:06:11+00:00",
+    "moddate": "2020-04-14T18:06:11+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 1983 - 2004.pdf",
+    "total_pages": 55,
+    "page": 27,
+    "page_label": "28"
+  },
+  "source": "JAMB Biology Past Questions 1983 - 2004.pdf#page=28",
+  "type": "pdf",
+  "year": null
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "6883801f35e44bd06fe16c06",
+  "content_hash": "051ea3a00430e395976bf97c647ab394",
+  "collected_at": "2025-07-25T13:01:19.354382",
+  "content": "Biology \n1983 - 2004  \nLASU-INFO \nJAMB \nPast Questions",
+  "file_info": {
+    "filename": "JAMB Biology Past Questions 1983 - 2004.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 1983 - 2004.pdf",
+    "page_number": 1,
+    "total_pages": 55,
+    "file_size": 2195959
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:06:11+00:00",
+    "moddate": "2020-04-14T18:06:11+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 1983 - 2004.pdf",
+    "total_pages": 55,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Biology Past Questions 1983 - 2004.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

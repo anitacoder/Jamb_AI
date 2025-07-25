@@ -1,0 +1,26 @@
+{
+  "_id": "68837f5835e44bd06fe14ddd",
+  "content_hash": "466fa590cb2f6eeae8e6804b332559d2",
+  "collected_at": "2025-07-25T12:58:00.393864",
+  "content": "1. C \n2. C \n3. D \n4. C \n5. D \n6. A \n7. B \n9. A \n10. A \n11. C \n12. D \n13. B \n14. A \n15. B \n16. D \n17. A \n18. C \n19. B \n20. C \n21. A \n22. A \n23. C \n24. A \n25. B \n26. D \n27. D \n28. B \n29. A \n30. C \n31. C \n32. C \n33. B \n34. C \n35. A \n36. B \n37. B \n38. C \n39. B \n40. B \n41. C \n42. B \n43. A \n44. A \n45. D \n46. A \n47. A \n48. A \n49. D \n50. D",
+  "file_info": {
+    "filename": "JAMB Biology Past Questions 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "page_number": 13,
+    "total_pages": 53,
+    "file_size": 1121744
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:17:34+00:00",
+    "moddate": "2020-04-14T18:17:34+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "total_pages": 53,
+    "page": 12,
+    "page_label": "13"
+  },
+  "source": "JAMB Biology Past Questions 2010 - 2018.pdf#page=13",
+  "type": "pdf",
+  "year": null
+}

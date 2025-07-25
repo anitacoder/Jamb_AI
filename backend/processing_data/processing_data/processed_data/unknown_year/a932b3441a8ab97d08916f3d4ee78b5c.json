@@ -1,0 +1,26 @@
+{
+  "_id": "68837f5835e44bd06fe14d6c",
+  "content_hash": "a932b3441a8ab97d08916f3d4ee78b5c",
+  "collected_at": "2025-07-25T12:58:00.393662",
+  "content": "BIOLOGY  \n2010 - \n2018  \nLASU-INFO \nJAMB \nPast \nQuestions",
+  "file_info": {
+    "filename": "JAMB Biology Past Questions 2010 - 2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "page_number": 1,
+    "total_pages": 53,
+    "file_size": 1121744
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:17:34+00:00",
+    "moddate": "2020-04-14T18:17:34+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Biology Past Questions 2010 - 2018.pdf",
+    "total_pages": 53,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB Biology Past Questions 2010 - 2018.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}

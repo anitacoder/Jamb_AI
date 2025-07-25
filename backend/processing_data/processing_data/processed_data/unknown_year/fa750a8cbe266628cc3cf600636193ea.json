@@ -1,0 +1,26 @@
+{
+  "_id": "68837fe935e44bd06fe15f46",
+  "content_hash": "fa750a8cbe266628cc3cf600636193ea",
+  "collected_at": "2025-07-25T13:00:23.808560",
+  "content": "65 \n \n \n \n19.D \n20.A \n21.C \n22.B \n23.A \n24.A \n25.B \n26.A \n27.A \n28.B \n29.C \n30.A \n31.A \n32.B \n33.C \n34.D \n35.D \n36.B \n37.A \n38.C \n39.A \n40.B \n \nANSWER KEYS \n1. B \n2. C \n3. A \n4. A \n5. B \n6. C \n7. A \n8. B \n9. D \n10.D \n11.A \n12.B \n13.B \n14.B \n15.C \n16.A \n17.A \n18.A",
+  "file_info": {
+    "filename": "JAMB Literature-In-Englis Past Questions and Answers 2010-2018.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB Literature-In-Englis Past Questions and Answers 2010-2018.pdf",
+    "page_number": 65,
+    "total_pages": 66,
+    "file_size": 843692
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-15T21:11:38+00:00",
+    "moddate": "2020-04-15T21:11:38+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB Literature-In-Englis Past Questions and Answers 2010-2018.pdf",
+    "total_pages": 66,
+    "page": 64,
+    "page_label": "65"
+  },
+  "source": "JAMB Literature-In-Englis Past Questions and Answers 2010-2018.pdf#page=65",
+  "type": "pdf",
+  "year": null
+}

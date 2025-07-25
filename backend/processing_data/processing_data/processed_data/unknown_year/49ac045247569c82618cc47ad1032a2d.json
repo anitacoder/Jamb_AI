@@ -1,0 +1,26 @@
+{
+  "_id": "68837f4f35e44bd06fe148f4",
+  "content_hash": "49ac045247569c82618cc47ad1032a2d",
+  "collected_at": "2025-07-25T12:57:51.425496",
+  "content": "Christian Religious \nKnowledge \n1983  - 2004  \nLASU-INFO \nJAMB \nQuestions",
+  "file_info": {
+    "filename": "JAMB CRK Past Question 1983 - 2004.pdf",
+    "filepath": "/app/processing_data/processing_data/pdf_documents/JAMB CRK Past Question 1983 - 2004.pdf",
+    "page_number": 1,
+    "total_pages": 59,
+    "file_size": 1517740
+  },
+  "metadata": {
+    "producer": "Microsoft\u00ae Word for Office 365",
+    "creator": "Microsoft\u00ae Word for Office 365",
+    "creationdate": "2020-04-14T18:47:47+00:00",
+    "moddate": "2020-04-14T18:47:47+00:00",
+    "source": "/app/processing_data/processing_data/pdf_documents/JAMB CRK Past Question 1983 - 2004.pdf",
+    "total_pages": 59,
+    "page": 0,
+    "page_label": "1"
+  },
+  "source": "JAMB CRK Past Question 1983 - 2004.pdf#page=1",
+  "type": "pdf",
+  "year": null
+}
